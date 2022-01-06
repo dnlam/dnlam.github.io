@@ -1,12 +1,12 @@
 // Based on https://www.geeksforgeeks.org/how-to-switch-the-language-of-the-page-using-javascript/
 
 // Define the invitation in different languages
-var invitation_start_en = "<span>Tú Anh & Hải Yến cordially invite</span>";
+var invitation_start_en = "<span>Ngọc Lâm & Quỳnh Hương Yến cordially invite</span>";
       invitation_end_en = "<span>to our wedding ceremony and wedding party.</span>";
-    invitation_start_vi = "<span>Tú Anh và Hải Yến thân mời</span>";
+    invitation_start_vi = "<span>Ngọc Lâmh và Quỳnh Hương thân mời</span>";
       invitation_end_vi = "<span>đến dự đám cưới và tiệc cưới của chúng mình.</span>";
       invitation_end_vi_no_pronoun = "<span>đến dự đám cưới và tiệc cưới của ";
-    invitation_start_fr = "<span>Tú Anh & Hải Yến sont heureux d'inviter</span>";
+    invitation_start_fr = "<span>Ngọc Lâm & Quỳnh Hương sont heureux d'inviter</span>";
       invitation_end_fr = "<span>à nos cérémonie et réception de mariage.</span>";
 
 function setInvitation(name_en, name_vi, name_fr, defaultlang, vi_pronoun="") {

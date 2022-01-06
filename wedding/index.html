@@ -576,7 +576,7 @@
                         <form id="rsvp-form" class="form validate-rsvp-form row" method="post">
                             <div class="col col-sm-6">
                                 <input data-translate="name_placeholder" type="text" name="name" class="form-control"
-                                    placeholder="Your Name*" oninvalid="setCustomValidity('Custom Message')">
+                                    placeholder="Your Name 1234*" oninvalid="setCustomValidity('Custom Message')">
                             </div>
                             <div class="col col-sm-6">
                                 <input data-translate="email_placeholder" type="email" name="email" class="form-control"
@@ -603,7 +603,7 @@
                                     </option>
                                 </select>
                             </div>
-                            <div class="col col-sm-12">
+                            <!-- <div class="col col-sm-12">
                                 <input data-translate="allergy_placeholder" type="text" name="allergy"
                                     class="form-control" placeholder="Meal Preferences">
                             </div>
@@ -619,14 +619,13 @@
                                     <option data-translate="yes_placeholder">Yes</option>
                                     <option data-translate="no_placeholder">No</option>
                                 </select>
-                            </div>
-
+                            </div> -->
                             <div class="col col-sm-12 submit-btn">
                                 <button data-translate="rsvp_submit" type="submit" class="submit">Send</button>
                                 <span id="loader"><i class="fa fa-refresh fa-spin fa-3x fa-fw"></i></span>
                             </div>
                             <div class="col col-md-12 success-error-message">
-                                <div data-translate="rsvp_success" id="success">Thank you!</div>
+                                <div data-translate="rsvp_success" id="success">Thank you for answering!</div>
                                 <div data-translate="rsvp_error" id="error"> An error occurred while sending the
                                     information. Please try again later. </div>
                             </div>

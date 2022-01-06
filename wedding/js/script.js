@@ -544,33 +544,33 @@
 
                 events: {
                     required: true
-                },
-
-                sendemail: {
-                    required: true
                 }
 
+                // sendemail: {
+                //     required: false
+                // }
+
             },
 
-            messages: {
-                name: {
-                    required: language_dict['name_rsvp_error'],
-                    minlength: language_dict['name_minlength_rsvp_error'],
-                },
-                email: {
-                    required: language_dict['email_rsvp_error'],
-                    email: language_dict['email_format_rsvp_error'],
-                },
-                guest: language_dict['guest_rsvp_error'],
-                events: language_dict['events_rsvp_error'],
-                sendemail: language_dict['sendemail_rsvp_error'],
-            },
+            // messages: {
+            //     name: {
+            //         required: language_dict['name_rsvp_error'],
+            //         minlength: language_dict['name_minlength_rsvp_error'],
+            //     },
+            //     email: {
+            //         required: language_dict['email_rsvp_error'],
+            //         email: language_dict['email_format_rsvp_error'],
+            //     },
+            //     guest: language_dict['guest_rsvp_error'],
+            //     events: language_dict['events_rsvp_error'],
+            //     sendemail: language_dict['sendemail_rsvp_error'],
+            // },
 
             submitHandler: function (form) {
                 $("#loader").css("display", "inline-block");
                 $.ajax({
                     type: "POST",
-                    url: "https://script.google.com/macros/s/AKfycbwcvfNpWXGVCVB5odsSGh6w9r9b7i05ms547Xp05ZurvvK0qQN7KkSjI2TfXdwQlEeh/exec",
+                    url: "https://script.google.com/macros/s/AKfycbxaHlD1H8q2pYe3AdQ2cGOGWSwau_a48cNS78QyGoCWpnyxJPM3miTy0Hjr8w0ZTp7Q/exec",
                     data: $(form).serialize(),
                     success: function () {
                         $( "#loader").hide();
