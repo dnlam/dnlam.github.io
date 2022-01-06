@@ -570,7 +570,7 @@
                 $("#loader").css("display", "inline-block");
                 $.ajax({
                     type: "POST",
-                    url: "https://script.google.com/macros/s/AKfycbzutX8RMpo8DNxPzMZyFVBvRWSZ5IAOXvP-4zri-0xxJnU4mPtLmp8Upy2DYgCFm6FHCw/exec",
+                    url: "https://script.google.com/macros/s/AKfycbwcvfNpWXGVCVB5odsSGh6w9r9b7i05ms547Xp05ZurvvK0qQN7KkSjI2TfXdwQlEeh/exec",
                     data: $(form).serialize(),
                     success: function () {
                         $( "#loader").hide();
