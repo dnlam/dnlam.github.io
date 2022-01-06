@@ -1,7 +1,3 @@
-# Hydejack Starter Kit
-
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
-
 ## Quick Start
 ### Running locally
 1. Clone repository (git users), or [download] and unzip.
@@ -10,11 +6,23 @@ A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.
 4. Run `bundle exec jekyll serve`
 5. Open <http://localhost:4000/hydejack-starter-kit/>
 
-## What's next?
-* Open files and read the comments
-* Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
 
-[^1]: Requires Bundler. Install with `gem install bundler`.
+## GitHub Pages
+* Github pages supports limitedly for the hydejack themes
+* For existing sites, you can instead set the remote_theme key as follows:
+_config.yml
 
-[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+* remote_theme: hydecorp/hydejack@v9.1.5
+
+* Make sure the plugins list contains jekyll-include-cache (create if it doesnt exist): _config.yml
+
+* plugins:
+  - jekyll-include-cache
+
+* To run this configuration locally, make sure the following is part of your Gemfile:
+Gemfile
+
+* gem "github-pages", group: :jekyll_plugins
+* gem "jekyll-include-cache", group: :jekyll_plugins
+
+* Note that Hydejack has a reduced feature set when built on GitHub Pages. Specifically, using KaTeX math formulas doesnt work when built in this way.
