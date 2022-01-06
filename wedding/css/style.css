@@ -110,13 +110,14 @@ a:focus {
 
   /* --test-color: rgb(60, 146, 86); */
   --test-color: rgb(16, 12, 245);
-  --main-theme-color-1: 60, 146, 86; /* Header section and Our Love Story background */
+  --main-theme-color-1: 2, 18, 245; /* Header section and Our Love Story background */
   /* --main-theme-color-2: rgb(62, 146, 86); Birds and mainly all sections, the main section */
   --main-theme-color-2: rgb(2, 18, 245); /* Birds and mainly all sections */ 
   --main-theme-color-3: rgb(45, 114, 65); /* Column lines etc. */
   --main-theme-color-4: rgb(66, 103, 178); /* Social media icons */
   --main-theme-color-5: rgb(75, 180, 106); /* Hearts in love story section */
-  --main-theme-color-6: rgb(46, 112, 66); /* Box hover sections */
+  --main-theme-color-6: rgb(46, 112, 66); /*Box hover sections*/
+  /* --main-theme-color-6: rgb(26, 11, 226); Box hover sections */
   --main-theme-color-7: rgb(56, 136, 80); /* Video play buttion in galery section */
   
 }
