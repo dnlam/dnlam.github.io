@@ -552,19 +552,19 @@
 
             },
 
-            // messages: {
-            //     name: {
-            //         required: language_dict['name_rsvp_error'],
-            //         minlength: language_dict['name_minlength_rsvp_error'],
-            //     },
-            //     email: {
-            //         required: language_dict['email_rsvp_error'],
-            //         email: language_dict['email_format_rsvp_error'],
-            //     },
-            //     guest: language_dict['guest_rsvp_error'],
-            //     events: language_dict['events_rsvp_error'],
-            //     sendemail: language_dict['sendemail_rsvp_error'],
-            // },
+            messages: {
+                name: {
+                    required: language_dict['name_rsvp_error'],
+                    minlength: language_dict['name_minlength_rsvp_error'],
+                },
+                email: {
+                    required: language_dict['email_rsvp_error'],
+                    email: language_dict['email_format_rsvp_error'],
+                },
+                guest: language_dict['guest_rsvp_error'],
+                events: language_dict['events_rsvp_error'],
+                // sendemail: language_dict['sendemail_rsvp_error'],
+            },
 
             submitHandler: function (form) {
                 $("#loader").css("display", "inline-block");
