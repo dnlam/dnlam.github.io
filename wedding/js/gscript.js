@@ -164,11 +164,11 @@ else if (window.location.hash == "#mai-dang") {
   )
 }
 
-else if (window.location.hash == "#minh-x17") {
+else if (window.location.hash == "#dat-anh") {
   setInvitation(
-    name_en="Minh",
-    name_vi="Minh",
-    name_fr="Minh",
+    name_en="Dat and Anh",
+    name_vi="Đạt và Ánh",
+    name_fr="Dat et Anh",
     defaultlang="vi",
     //vi_pronoun="bọn em"
   )
