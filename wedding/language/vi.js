@@ -24,7 +24,7 @@ var language_vi = {
     guest_rsvp_error: "Vui lòng nhập số lượng khách",
     events_rsvp_error: "Vui lòng chọn sự kiện tham dự",
     sendemail_rsvp_error: "Vui lòng xác nhận",
-    accommodation_placeholder: "Bạn có cần giúp đỡ về nơi ở không?",
+    accommodation_placeholder: "Bạn có cần giúp đỡ về nơi ở không?*",
     yes_acc_placeholder: "Có",
     no_acc_placeholder: "Không",
     rsvp_submit: "Gửi",

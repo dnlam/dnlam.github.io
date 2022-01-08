@@ -24,7 +24,7 @@ var language_en = {
     guest_rsvp_error: "Select your number of guest",
     events_rsvp_error: "Select your event list",
     sendemail_rsvp_error: "Please confirm this",
-    accommodation_placeholder: "Do you need any accommodation support?",
+    accommodation_placeholder: "Do you need any accommodation support?*",
     yes_acc_placeholder: "Yes",
     no_acc_placeholder: "No",
     rsvp_submit: "Send",

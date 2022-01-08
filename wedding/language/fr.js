@@ -24,7 +24,7 @@ var language_fr = {
     guest_rsvp_error: "Merci de saisir le nombre d'invités",
     events_rsvp_error: "Merci de choisir l'événement",
     sendemail_rsvp_error: "Veuillez confirmer ceci",
-    accommodation_placeholder: "Avez-vous besoin d'un hébergement?",
+    accommodation_placeholder: "Avez-vous besoin d'un hébergement?*",
     yes_acc_placeholder: "Oui",
     no_acc_placeholder: "Non",
     rsvp_submit: "Envoyer",
