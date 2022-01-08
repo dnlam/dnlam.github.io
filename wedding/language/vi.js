@@ -51,7 +51,7 @@ var language_vi = {
     gallery_all: "Tất Cả",
     gallery_hanoi: "Hà Nội",
     gallery_paris: "Paris",
-    gallery_wedding: "Đám Cưới",
+    // gallery_wedding: "Đám Cưới",
     gallery_phuquoc: "Phú Quốc",
     gallery_toulon: "Provence",
     gallery_nice: "Nice",

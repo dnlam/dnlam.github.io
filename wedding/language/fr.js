@@ -52,6 +52,8 @@ var language_fr = {
     gallery_hanoi: "Hanoï",
     gallery_paris: "Paris",
     gallery_wedding: "Mariage",
+    gallery_prewedding: "Pre-Mariage",
+    gallery_engagement: "Engagement à Paris",
     gallery_phuquoc: "Phu Quoc",
     gallery_toulon: "Provence",
     gallery_nice: "Nice",
