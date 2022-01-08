@@ -67,6 +67,12 @@ function changeMessageLanguage(lang_dict) {
             required: lang_dict['accommodation_rsvp_error']
         }
     });
+    $('select[name="allergy"]').rules('add', {
+        // required: true,
+        messages: {
+            required: lang_dict['allergy_rsvp_error']
+        }
+    });
     $('select[name="sendemail"]').rules('add', {
         // required: true,
         messages: {

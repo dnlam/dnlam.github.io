@@ -548,11 +548,11 @@
 
                 events: {
                     required: true
-                }
+                },
 
-                // sendemail: {
-                //     required: false
-                // }
+                allergy: {
+                    required: false
+                }
 
             },
 
@@ -569,6 +569,7 @@
                 events: language_dict['events_rsvp_error'],
                 sendemail: language_dict['sendemail_rsvp_error'],
                 accommodation: language_dict['accommodation_rsvp_error'],
+                allergy: language_dict['allergy_rsvp_error'],
             },
 
             submitHandler: function (form) {

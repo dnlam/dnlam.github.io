@@ -12,7 +12,7 @@ var language_vi = {
     weddingceremony_placeholder: "Lễ Cưới Ở Mairie",
     reception_placeholder: "Tiệc Cưới Ở Nhà Hàng",
     sorry_placeholder: "Mình Bận Mất Rồi 😢",
-    allergy_placeholder: "Bạn Có Chế Độ Ăn Uống Đặc Biệt Gì Không ?",
+    allergy_placeholder: "Bạn Có Muốn Tham Quan Grenoble ?",
     message_placeholder: "Lời Nhắn Đến Cô Dâu Chú Rể",
     sendemail_placeholder: "Bạn Có Muốn Nhận Email Xác Nhận Không ?*",
     yes_placeholder: "Có",
