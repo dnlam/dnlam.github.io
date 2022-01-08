@@ -542,6 +542,10 @@
                     required: true
                 },
 
+                accommodation: {
+                    required: true
+                },
+
                 events: {
                     required: true
                 }
@@ -563,7 +567,8 @@
                 },
                 guest: language_dict['guest_rsvp_error'],
                 events: language_dict['events_rsvp_error'],
-                // sendemail: language_dict['sendemail_rsvp_error'],
+                sendemail: language_dict['sendemail_rsvp_error'],
+                accommodation: language_dict['accommodation_rsvp_error'],
             },
 
             submitHandler: function (form) {

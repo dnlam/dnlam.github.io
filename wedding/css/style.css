@@ -110,13 +110,13 @@ a:focus {
 
   /* --test-color: rgb(60, 146, 86); */
   --test-color: rgb(45, 66, 184);
-  --main-theme-color-1: 102, 178, 255; /* Header section and Our Love Story background */
+  --main-theme-color-1: 128, 128, 128; /* Header section and Our Love Story background */
   /* --main-theme-color-2: rgb(62, 146, 86); Birds and mainly all sections, the main section */
-  --main-theme-color-2: rgb(102, 178, 255); /* Birds and mainly all sections */ 
+  --main-theme-color-2: rgb(128, 128, 128); /* Birds and mainly all sections */ 
   --main-theme-color-3: rgb(45, 114, 65); /* Column lines etc. */
   --main-theme-color-4: rgb(66, 103, 178); /* Social media icons */
   --main-theme-color-5: rgb(75, 180, 106); /* Hearts in love story section */
-  --main-theme-color-6: rgb(46, 112, 66); /*Box hover sections*/
+  --main-theme-color-6: rgb(50, 52, 139); /*Box hover sections, the color on the button when mouse on there*/
   /* --main-theme-color-6: rgb(26, 11, 226); Box hover sections */
   --main-theme-color-7: rgb(56, 136, 80); /* Video play buttion in galery section */
   
@@ -2938,6 +2938,12 @@ label {
 /*--------------------------------------------------------------
 #1.0	events-section
 --------------------------------------------------------------*/
+.events-section {
+  background-color: rgb(255, 255, 255);
+  /*** tablist ***/
+  /*** tab-content ***/
+}
+
 .events-section .event {
   overflow: hidden;
 }
@@ -3437,8 +3443,8 @@ label {
 
 .rsvp-section:after {
   content: "";
-  /* background-color: rgba(0, 0, 0, 0.6); */
-  background-color: rgba(97, 158, 97, 0.6);
+  background-color: rgba(97, 124, 158, 0.6);
+  /* background-color: rgba(97, 124, 158, 0.6); */
   width: 100%;
   height: 100%;
   position: absolute;
