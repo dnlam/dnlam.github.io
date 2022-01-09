@@ -227,5 +227,32 @@ else if (window.location.hash == "#nhi-son") {
     // vi_pronoun="anh chị"
   )
 }
+else if (window.location.hash == "#bo-me") {
+  setInvitation(
+    name_en="bố mẹ",
+    name_vi="bố mẹ",
+    name_fr="bo me",
+    defaultlang="vi",
+    // vi_pronoun="anh chị"
+  )
+}
+else if (window.location.hash == "#dang-huy") {
+  setInvitation(
+    name_en="Dang Huy",
+    name_vi="Đăng Huy",
+    name_fr="Dang Huy",
+    defaultlang="vi",
+    // vi_pronoun="anh chị"
+  )
+}
+else if (window.location.hash == "#son") {
+  setInvitation(
+    name_en="Son",
+    name_vi="Sơn",
+    name_fr="Son",
+    defaultlang="vi",
+    // vi_pronoun="anh chị"
+  )
+}
 
 }
