@@ -154,11 +154,11 @@ else if (window.location.hash == "#bich-ngoc") {
     //vi_pronoun="bọn em"
   )
 }
-else if (window.location.hash == "#mai-dang") {
+else if (window.location.hash == "#mai") {
   setInvitation(
-    name_en="Mai Dang",
-    name_vi="Mai Đặng",
-    name_fr="Mai Dang",
+    name_en="Mai",
+    name_vi="Mai",
+    name_fr="Mai",
     defaultlang="vi",
     //vi_pronoun="bọn em"
   )
