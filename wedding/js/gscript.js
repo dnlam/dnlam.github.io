@@ -117,15 +117,7 @@ else if (window.location.hash == "#huy-uyen") {
     // vi_pronoun="bọn em"
   )
 }
-else if (window.location.hash == "#anh-phuoc-x14") {
-  setInvitation(
-    name_en="Phuoc",
-    name_vi="anh Phước",
-    name_fr="Phuoc",
-    defaultlang="vi",
-    vi_pronoun="bọn em"
-  )
-}
+
 else if (window.location.hash == "#gia-dinh-Linh") {
   setInvitation(
     name_en="Linh and your family",
@@ -214,7 +206,7 @@ else if (window.location.hash == "#tram-tinh") {
     name_en="Tram and Tinh",
     name_vi="Trâm và Tình",
     name_fr="Tram et Tinh",
-    defaultlang="vi",
+    defaultlang="en",
     // vi_pronoun="anh chị"
   )
 }
@@ -223,7 +215,7 @@ else if (window.location.hash == "#nhi-son") {
     name_en="Nhi and Son",
     name_vi="Nhi và anh Sơn",
     name_fr="Nhi et Son",
-    defaultlang="vi",
+    defaultlang="en",
     // vi_pronoun="anh chị"
   )
 }
@@ -250,6 +242,36 @@ else if (window.location.hash == "#son") {
     name_en="Son",
     name_vi="Sơn",
     name_fr="Son",
+    defaultlang="vi",
+    // vi_pronoun="anh chị"
+  )
+}
+
+else if (window.location.hash == "#na") {
+  setInvitation(
+    name_en="Ngoc Anh",
+    name_vi="Ngọc Anh",
+    name_fr="Ngoc Anh",
+    defaultlang="en",
+    // vi_pronoun="anh chị"
+  )
+}
+
+else if (window.location.hash == "#binh") {
+  setInvitation(
+    name_en="Binh",
+    name_vi="Bình",
+    name_fr="Binh",
+    defaultlang="vi",
+    // vi_pronoun="anh chị"
+  )
+}
+
+else if (window.location.hash == "#an") {
+  setInvitation(
+    name_en="An",
+    name_vi="An",
+    name_fr="An",
     defaultlang="vi",
     // vi_pronoun="anh chị"
   )
