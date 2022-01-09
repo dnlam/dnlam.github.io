@@ -180,7 +180,7 @@ else if (window.location.hash == "#co-Hong") {
     name_vi="cô Hồng",
     name_fr="Hong",
     defaultlang="vi",
-    // vi_pronoun="anh chị"
+    vi_pronoun="bọn cháu"
   )
 }
 else if (window.location.hash == "#trang") {
@@ -198,7 +198,7 @@ else if (window.location.hash == "#anhdiep-chibich") {
     name_vi="gia đình anh Điệp chị Bích",
     name_fr="gia đình anh Điệp chị Bích",
     defaultlang="vi",
-    // vi_pronoun="anh chị"
+    vi_pronoun="bọn em"
   )
 }
 else if (window.location.hash == "#tram-tinh") {
@@ -225,7 +225,7 @@ else if (window.location.hash == "#bo-me") {
     name_vi="bố mẹ",
     name_fr="bo me",
     defaultlang="vi",
-    // vi_pronoun="anh chị"
+    vi_pronoun="bọn con"
   )
 }
 else if (window.location.hash == "#dang-huy") {
