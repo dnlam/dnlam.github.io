@@ -202,9 +202,27 @@ else if (window.location.hash == "#trang") {
 }
 else if (window.location.hash == "#anhdiep-chibich") {
   setInvitation(
-    name_en="ia đình anh Điệp chị Bích",
+    name_en="gia đình anh Điệp chị Bích",
     name_vi="gia đình anh Điệp chị Bích",
-    name_fr="ia đình anh Điệp chị Bích",
+    name_fr="gia đình anh Điệp chị Bích",
+    defaultlang="vi",
+    // vi_pronoun="anh chị"
+  )
+}
+else if (window.location.hash == "#tram-tinh") {
+  setInvitation(
+    name_en="Tram and Tinh",
+    name_vi="Trâm và Tình",
+    name_fr="Tram et Tinh",
+    defaultlang="vi",
+    // vi_pronoun="anh chị"
+  )
+}
+else if (window.location.hash == "#nhi-son") {
+  setInvitation(
+    name_en="Nhi and Son",
+    name_vi="Nhi và anh sơn",
+    name_fr="Nhi et Son",
     defaultlang="vi",
     // vi_pronoun="anh chị"
   )
