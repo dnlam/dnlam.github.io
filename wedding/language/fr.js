@@ -12,7 +12,7 @@ var language_fr = {
     weddingceremony_placeholder: "La Cérémonie",
     reception_placeholder: "La Reception",
     sorry_placeholder: "Désolé Je Ne Pourrai Pas Venir 😢",
-    allergy_placeholder: "Allez-Vous Faire Un Tour de Grenoble ?",
+    allergy_placeholder: "Vous Souhaitez Découvrir Grenoble ?",
     message_placeholder: "Votre Message",
     sendemail_placeholder: "Souhaitez-vous recevoir un email de confirmation ?*",
     yes_placeholder: "Oui",
