@@ -1,7 +1,7 @@
 // Based on https://www.geeksforgeeks.org/how-to-switch-the-language-of-the-page-using-javascript/
 
 // Define the invitation in different languages
-var invitation_start_en = "<span>Ngọc Lâm & Quỳnh Hương Yến cordially invite</span>";
+var invitation_start_en = "<span>Ngọc Lâm & Quỳnh Hương cordially invite</span>";
       invitation_end_en = "<span>to our wedding ceremony and wedding party.</span>";
     invitation_start_vi = "<span>Ngọc Lâm và Quỳnh Hương thân mời</span>";
       invitation_end_vi = "<span>đến dự đám cưới và tiệc cưới của chúng mình.</span>";
