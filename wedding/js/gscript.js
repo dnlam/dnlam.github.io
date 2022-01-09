@@ -120,9 +120,9 @@ else if (window.location.hash == "#huy-uyen") {
 
 else if (window.location.hash == "#gia-dinh-Linh") {
   setInvitation(
-    name_en="Linh and your family",
+    name_en="gia đình Linh",
     name_vi="gia đình Linh",
-    name_fr="Linh et ta famille",
+    name_fr="gia đình Linh",
     defaultlang="vi",
     // vi_pronoun="bọn em"
   )
@@ -272,6 +272,16 @@ else if (window.location.hash == "#an") {
     name_en="An",
     name_vi="An",
     name_fr="An",
+    defaultlang="vi",
+    // vi_pronoun="anh chị"
+  )
+}
+
+else if (window.location.hash == "#linh") {
+  setInvitation(
+    name_en="Linh",
+    name_vi="Linh",
+    name_fr="Linh",
     defaultlang="vi",
     // vi_pronoun="anh chị"
   )
