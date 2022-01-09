@@ -221,7 +221,7 @@ else if (window.location.hash == "#tram-tinh") {
 else if (window.location.hash == "#nhi-son") {
   setInvitation(
     name_en="Nhi and Son",
-    name_vi="Nhi và anh sơn",
+    name_vi="Nhi và anh Sơn",
     name_fr="Nhi et Son",
     defaultlang="vi",
     // vi_pronoun="anh chị"
