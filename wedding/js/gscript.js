@@ -200,5 +200,14 @@ else if (window.location.hash == "#trang") {
     // vi_pronoun="anh chị"
   )
 }
+else if (window.location.hash == "#anhdiep-chibich") {
+  setInvitation(
+    name_en="ia đình anh Điệp chị Bích",
+    name_vi="gia đình anh Điệp chị Bích",
+    name_fr="ia đình anh Điệp chị Bích",
+    defaultlang="vi",
+    // vi_pronoun="anh chị"
+  )
+}
 
 }
