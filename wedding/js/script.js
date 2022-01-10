@@ -577,7 +577,7 @@
                 $.ajax({
                     type: "POST",
                     // url: "https://script.google.com/macros/s/AKfycbxaHlD1H8q2pYe3AdQ2cGOGWSwau_a48cNS78QyGoCWpnyxJPM3miTy0Hjr8w0ZTp7Q/exec", // ok
-                    url: "https://script.google.com/macros/s/AKfycby0bZ6JL5B_XYTF-QpX_Z2njB0tJ26_C7nOBiKHEi8rpjKrYKCgQUAG3f97cGRgaGWm/exec", // ok with replied email
+                    url: "https://script.google.com/macros/s/AKfycby4FF6EWbkMBFpgMOMSGXAiU7zbjMFesWOLE2SPOvqEfiETCF8jzyLxWtrtpA4wV9lJ/exec", // ok with replied email
                     data: $(form).serialize(),
                     success: function () {
                         $( "#loader").hide();
