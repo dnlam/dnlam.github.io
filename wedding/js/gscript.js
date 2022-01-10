@@ -4,6 +4,7 @@
 var invitation_start_en = "<span>Ngọc Lâm & Quỳnh Hương cordially invite</span>";
       invitation_end_en = "<span>to our wedding ceremony and wedding party.</span>";
     invitation_start_vi = "<span>Ngọc Lâm và Quỳnh Hương thân mời</span>";
+    invitation_start_vi_formal = "<span>Ngọc Lâm và Quỳnh Hương kính mời</span>";
       invitation_end_vi = "<span>đến dự đám cưới và tiệc cưới của chúng mình.</span>";
       invitation_end_vi_no_pronoun = "<span>đến dự đám cưới và tiệc cưới của ";
     invitation_start_fr = "<span>Ngọc Lâm & Quỳnh Hương sont heureux d'inviter</span>";
@@ -17,7 +18,7 @@ function setInvitation(name_en, name_vi, name_fr, defaultlang, vi_pronoun="") {
     document.getElementById("guest_invitation_vi").innerHTML = invitation_start_vi + name_vi + invitation_end_vi;
   }
   else {
-    document.getElementById("guest_invitation_vi").innerHTML = invitation_start_vi + name_vi + invitation_end_vi_no_pronoun + vi_pronoun + ".</span>";
+    document.getElementById("guest_invitation_vi").innerHTML = invitation_start_vi_formal + name_vi + invitation_end_vi_no_pronoun + vi_pronoun + ".</span>";
     }
 }
 
@@ -29,17 +30,17 @@ if (window.location.hash) {
 if (window.location.hash == "#anh-luan-hong-anh") {
   setInvitation(
     name_en="Luan and Hong Anh",
-    name_vi="anh Luân Hồng Anh",
+    name_vi="anh Luân và Hồng Anh",
     name_fr="Luan et Hong Anh",
     defaultlang="vi",
-    vi_pronoun="bọn em"
+    // vi_pronoun="bọn em"
   )
 }
 else if (window.location.hash == "#anh-hai") {
   setInvitation(
-    name_en="Hai and your family",
+    name_en="anh Hải và gia đình",
     name_vi="anh Hải và gia đình",
-    name_fr="Hai et ta famille",
+    name_fr="anh Hải và gia đình",
     defaultlang="vi",
     vi_pronoun="bọn em"
   )
@@ -50,7 +51,7 @@ else if (window.location.hash == "#kien-mai") {
     name_vi="Kiên và Mai",
     name_fr="Kien et Mai",
     defaultlang="vi",
-    vi_pronoun="bọn mình"
+    // vi_pronoun="bọn mình"
   )
 }
 else if (window.location.hash == "#phong-quynh") {
@@ -73,11 +74,11 @@ else if (window.location.hash == "#Thien") {
 }
 else if (window.location.hash == "#anh-truong-tuan") {
   setInvitation(
-    name_en="Tuan",
-    name_vi="anh Tuấn",
-    name_fr="Tuan",
+    name_en="Tuan and girlfriend",
+    name_vi="anh Tuấn và người thương",
+    name_fr="Tuan et ta copine",
     defaultlang="vi",
-    vi_pronoun="bọn em"
+    // vi_pronoun="bọn em"
   )
 }
 
@@ -87,7 +88,7 @@ else if (window.location.hash == "#vo-tuan") {
     name_vi="Võ Tuấn",
     name_fr="Vo Tuan",
     defaultlang="vi",
-    vi_pronoun="bọn mình"
+    // vi_pronoun="bọn mình"
   )
 }
 else if (window.location.hash == "#anh-ngoc-anh") {
@@ -96,7 +97,7 @@ else if (window.location.hash == "#anh-ngoc-anh") {
     name_vi="gia đình anh Ngọc Anh",
     name_fr="Ngoc Anh et ta famille",
     defaultlang="vi",
-    vi_pronoun="bọn em"
+    // vi_pronoun="bọn em"
   )
 }
 else if (window.location.hash == "#anh-tan") {
@@ -124,7 +125,7 @@ else if (window.location.hash == "#gia-dinh-Linh") {
     name_vi="gia đình Linh",
     name_fr="gia đình Linh",
     defaultlang="vi",
-    // vi_pronoun="bọn em"
+    vi_pronoun="chúng cháu"
   )
 }
 else if (window.location.hash == "#mai-anh") {
@@ -198,7 +199,7 @@ else if (window.location.hash == "#anhdiep-chibich") {
     name_vi="gia đình anh Điệp chị Bích",
     name_fr="gia đình anh Điệp chị Bích",
     defaultlang="vi",
-    vi_pronoun="bọn em"
+    vi_pronoun="chúng em"
   )
 }
 else if (window.location.hash == "#tram-tinh") {
@@ -313,7 +314,7 @@ else if (window.location.hash == "#truong") {
     name_vi="Trưởng",
     name_fr="Trưởng",
     defaultlang="vi",
-    vi_pronoun="anh chị"
+    // vi_pronoun="anh chị"
   )
 }
 
@@ -323,7 +324,7 @@ else if (window.location.hash == "#long") {
     name_vi="Long",
     name_fr="Long",
     defaultlang="vi",
-    vi_pronoun="chúng mình"
+    // vi_pronoun="chúng mình"
   )
 }
 
@@ -333,7 +334,7 @@ else if (window.location.hash == "#khuyen") {
     name_vi="chị Khuyên",
     name_fr="chị Khuyên",
     defaultlang="vi",
-    vi_pronoun="bọn em"
+    vi_pronoun="chúng em"
   )
 }
 
@@ -343,7 +344,7 @@ else if (window.location.hash == "#bao") {
     name_vi="em Bảo",
     name_fr="em Bảo",
     defaultlang="vi",
-    vi_pronoun="anh chị"
+    // vi_pronoun="anh chị"
   )
 }
 
@@ -363,7 +364,7 @@ else if (window.location.hash == "#trucquynh") {
     name_vi="gia đình chị Quỳnh",
     name_fr="gia đình chị Quỳnh",
     defaultlang="vi",
-    vi_pronoun="bọn em"
+    vi_pronoun="chúng em"
   )
 }
 
@@ -373,7 +374,7 @@ else if (window.location.hash == "#nhungpham") {
     name_vi="gia đình chị Nhung",
     name_fr="gia đình chị Nhung",
     defaultlang="vi",
-    vi_pronoun="bọn em"
+    // vi_pronoun="bọn em"
   )
 }
 
@@ -383,7 +384,7 @@ else if (window.location.hash == "#minhanh") {
     name_vi="Minh Anh",
     name_fr="Minh Anh",
     defaultlang="vi",
-    vi_pronoun="bọn bác"
+    // vi_pronoun="bọn bác"
   )
 }
 
@@ -393,7 +394,7 @@ else if (window.location.hash == "#thanhthuy") {
     name_vi="Thủy",
     name_fr="Thủy",
     defaultlang="vi",
-    vi_pronoun="chúng mình"
+    // vi_pronoun="chúng mình"
   )
 }
 
@@ -403,7 +404,7 @@ else if (window.location.hash == "#ducanh") {
     name_vi="Đức Anh",
     name_fr="Đức Anh",
     defaultlang="vi",
-    vi_pronoun="anh chị"
+    // vi_pronoun="anh chị"
   )
 }
 
@@ -413,7 +414,7 @@ else if (window.location.hash == "#hnduong") {
     name_vi="Dương",
     name_fr="Dương",
     defaultlang="vi",
-    vi_pronoun="chúng mình"
+    // vi_pronoun="chúng mình"
   )
 }
 
