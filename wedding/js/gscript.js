@@ -74,7 +74,7 @@ else if (window.location.hash == "#Thien") {
 }
 else if (window.location.hash == "#anh-truong-tuan") {
   setInvitation(
-    name_en="Tuan and girlfriend",
+    name_en="Tuan and your beloved",
     name_vi="anh Tuấn và người thương",
     name_fr="Tuan et ta copine",
     defaultlang="vi",
