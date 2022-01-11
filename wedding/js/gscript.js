@@ -427,4 +427,33 @@ else if (window.location.hash == "#hnduong") {
   )
 }
 
+else if (window.location.hash == "#chi-minh-phuong") {
+  setInvitation(
+    name_en="gia đình chị Minh Phương",
+    name_vi="gia đình chị Minh Phương",
+    name_fr="gia đình chị Minh Phương",
+    defaultlang="vi",
+    vi_pronoun="chúng em"
+  )
+}
+
+else if (window.location.hash == "#anh-Long") {
+  setInvitation(
+    name_en="gia đình anh Long",
+    name_vi="gia đình anh Long",
+    name_fr="gia đình anh Long",
+    defaultlang="vi",
+    vi_pronoun="chúng em"
+  )
+}
+
+else if (window.location.hash == "#chi-Trang-anh-Trieu") {
+  setInvitation(
+    name_en="gia đình chị Trang",
+    name_vi="gia đình chị Trang",
+    name_fr="gia đình chị Trang",
+    defaultlang="vi",
+    vi_pronoun="chúng em"
+  )
+}
 }
