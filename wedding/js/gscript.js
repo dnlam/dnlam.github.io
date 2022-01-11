@@ -106,7 +106,16 @@ else if (window.location.hash == "#anh-tan") {
     name_vi="anh Tân",
     name_fr="Tan",
     defaultlang="vi",
-    vi_pronoun="bọn em"
+    // vi_pronoun="bọn em"
+  )
+}
+else if (window.location.hash == "#anh-Hoan") {
+  setInvitation(
+    name_en="anh Tan",
+    name_vi="anh Hoan",
+    name_fr="anh Hoan",
+    defaultlang="vi",
+    // vi_pronoun="bọn em"
   )
 }
 else if (window.location.hash == "#huy-uyen") {
