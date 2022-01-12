@@ -474,4 +474,24 @@ else if (window.location.hash == "#anh-Tra") {
     vi_pronoun="chúng em"
   )
 }
+else if (window.location.hash == "#duy") {
+  setInvitation(
+    name_en="Duy",
+    name_vi="Duy",
+    name_fr="Duy",
+    defaultlang="vi",
+    // vi_pronoun="chúng mình"
+  )
+}
+
+else if (window.location.hash == "#aeCachan") {
+  setInvitation(
+    name_en="anh Luân, Đạt, Duy",
+    name_vi="anh Luân, Đạt, Duy",
+    name_fr="anh Luân, Đạt, Duy",
+    defaultlang="vi",
+    // vi_pronoun="chúng mình"
+  )
+}
+
 }
