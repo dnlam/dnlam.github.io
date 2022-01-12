@@ -550,6 +550,10 @@
                     required: true
                 },
 
+                sendemail: {
+                    required: true
+                },
+
                 allergy: {
                     required: false
                 }
