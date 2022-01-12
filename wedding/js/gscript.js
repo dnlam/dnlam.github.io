@@ -97,16 +97,16 @@ else if (window.location.hash == "#anh-ngoc-anh") {
     name_vi="gia đình anh Ngọc Anh",
     name_fr="Ngoc Anh et ta famille",
     defaultlang="vi",
-    // vi_pronoun="bọn em"
+    vi_pronoun="bọn em"
   )
 }
 else if (window.location.hash == "#anh-tan") {
   setInvitation(
-    name_en="Tan",
-    name_vi="anh Tân",
-    name_fr="Tan",
+    name_en="Tan and your beloved",
+    name_vi="anh Tân và bạn gái",
+    name_fr="Tan et ta copine",
     defaultlang="vi",
-    // vi_pronoun="bọn em"
+    vi_pronoun="bọn em"
   )
 }
 else if (window.location.hash == "#anh-Hoan") {
@@ -115,7 +115,7 @@ else if (window.location.hash == "#anh-Hoan") {
     name_vi="anh Hoan",
     name_fr="anh Hoan",
     defaultlang="vi",
-    // vi_pronoun="bọn em"
+    vi_pronoun="bọn em"
   )
 }
 else if (window.location.hash == "#huy-uyen") {
