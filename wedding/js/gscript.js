@@ -65,9 +65,9 @@ else if (window.location.hash == "#phong-quynh") {
 }
 else if (window.location.hash == "#Thien") {
   setInvitation(
-    name_en="Thien",
-    name_vi="Thiện",
-    name_fr="Thien",
+    name_en="Thien and your beloved",
+    name_vi="Thiện và bạn gái",
+    name_fr="Thien et ta copine",
     defaultlang="vi",
     //vi_pronoun=""
   )
