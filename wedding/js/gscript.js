@@ -456,4 +456,22 @@ else if (window.location.hash == "#chi-Trang-anh-Trieu") {
     vi_pronoun="chúng em"
   )
 }
+else if (window.location.hash == "#anh-Tri") {
+  setInvitation(
+    name_en="gia đình anh Trí",
+    name_vi="gia đình anh Trí",
+    name_fr="gia đình anh Trí",
+    defaultlang="vi",
+    vi_pronoun="chúng em"
+  )
+}
+else if (window.location.hash == "#anh-Tra") {
+  setInvitation(
+    name_en="gia đình anh Trà",
+    name_vi="gia đình anh Trà",
+    name_fr="gia đình anh Trà",
+    defaultlang="vi",
+    vi_pronoun="chúng em"
+  )
+}
 }
