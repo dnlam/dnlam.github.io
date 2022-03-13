@@ -52,10 +52,12 @@ menu:
   #   url:               /example/
   # - title:             Documentation
   #   url:               /docs/
-  - title:             My wedding
-    url:               /wedding/
+  - title:             About
+    url:               /
   - title:             My Blog
     url:               /blog/
+  - title:             Personal Event
+    url:               /wedding/
   # - title:             About
   #   url:               /about/
 
