@@ -54,6 +54,8 @@ menu:
   #   url:               /docs/
   - title:             My wedding
     url:               /wedding/
+  - title:             My Blog
+    url:               /blog/
   # - title:             About
   #   url:               /about/
 
