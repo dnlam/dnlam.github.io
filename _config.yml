@@ -52,12 +52,16 @@ menu:
   #   url:               /example/
   # - title:             Documentation
   #   url:               /docs/
+  - title:             Blog
+    url:               /blog/
+  - title:             Curriculum Vitae
+    url:               /CV/
+  - title:             Projects
+    url:               /projects/
+  # - title:             Personal Event
+  #   url:               /wedding/
   - title:             About
     url:               /
-  - title:             My Blog
-    url:               /blog/
-  - title:             Personal Event
-    url:               /wedding/
   # - title:             About
   #   url:               /about/
 
