@@ -53,7 +53,7 @@ menu:
   # - title:             Documentation
   #   url:               /docs/
   - title:             Blog
-    url:               /blog/
+    url:               /fastblog/
   - title:             Curriculum Vitae
     url:               /CV/
   - title:             Projects
