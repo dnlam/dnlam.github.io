@@ -189,8 +189,8 @@ kramdown:
 # PRO version only!
 # tinyletter:            <username>
 
-favicon: /assets/img/favicon/favicon.ico
-apple_touch_icon: /aassets/img/favicon/apple-touch-icon.png
+favicon: /assets/img/favicon_io/favicon.ico
+apple_touch_icon: /aassets/img/favicon_io/apple-touch-icon.png
 
 # Hydejack Settings
 # ----------------------------------------------------------------------------------------
