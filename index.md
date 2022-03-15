@@ -20,8 +20,6 @@ In my free time, I am intesrested in playing football, hiking and visiting beaut
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="contact-me">Contact Me </h2>
 
-CEA-LETI  
-17 Av. des Martyrs
-38054 Grenoble, France 
+You can contact me via my personal email at:
 
 <p class="home-element"><strong>nlam [dot] dinh [at] gmail [dot] com</strong></p>
