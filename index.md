@@ -12,7 +12,7 @@ Before that, I graduated from Ha Noi University of Science and Technology  (Viet
 
 My Master's degree is jointly awarded by the École Normale Supérieure Paris Saclay (France) and the Universidad Complutense de Madrid (Spain) in 2019. The courses are given with the focuses on the applications of molecular photonics for telecommunications and biosensors.
 
-My research interests are Digital Signal Processing, Reinforcement Learning in Network protocol and Deep Learning.
+My research interests are Digital Signal Processing, Reinforcement Learning in Network protocol and Image Processing with Deep Learning.
 
 In my free time, I am intesrested in playing football, hiking and visiting beautiful landscapes around Grenoble.
 
