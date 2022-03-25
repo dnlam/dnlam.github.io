@@ -20,8 +20,8 @@
       This presentation describes recent activities on ultra-high speed Optical Wireless Communications (OWC) using Gallium-Nitride micro-LEDs 
       designed and fabricated at CEA-Leti. Micro-LEDs are one of the most promising OWC optical sources due to their high illumination efficiency 
       and their large modulation bandwidths. Preliminary work focused on the implementation of a 10-µm single blue micro-LED on sapphire wafer within 
-      an experimental OWC setup, mixing software generation of direct-current optical orthogonal frequency division multiplexing (DCO-OFDM) 
-      patterns and hardware optical components for light collection, high speed photo-detection and digital acquisitions. Intensity modulation conveys 
+      an experimental OWC setup, mixing software generation of direct-current optical orthogonal frequency division multiplexing (DCO-OFDM) patterns 
+      and hardware optical components for light collection, high speed photo-detection and digital acquisitions. Intensity modulation conveys 
       DCO-OFDM waveform and direct detection is used at reception. A high current density of 25.5 kA/cm² provided a modulation bandwidth of 1.8 GHz. 
       Associated to bit and power loading with up to a 256-QAM subcarrier modulation, it enabled a new data rate of 7.7 Gb/s, compared to the previous 
       record of 5.37 Gb/s reached with a blue 21-µm microLED in 2016. Towards a better understanding of the micro-LED design impact on OWC performance, 
