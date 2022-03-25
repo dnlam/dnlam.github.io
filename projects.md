@@ -18,6 +18,7 @@ permalink: /projects/
         <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-danger">Blog</a>  -->
         <a href="https://www.leti-cea.fr/cea-tech/leti/Pages/Leti/Programmes-et-projets-soutenus/Liste-des-projets/5G-Conni.aspx">News</a>
   </div>
+</div>
 
 <h3 id="2019">2019</h3>
 <hr />
@@ -35,5 +36,6 @@ permalink: /projects/
         <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-danger">Blog</a> 
         <a href="https://www.leti-cea.com/cea-tech/leti/english/Pages/What's-On/Press%20release/CEA-Leti-Researchers-Break-Throughput-Record-for-LiFi-Communications-Using-Single-GaN-Blue-Micro-Light-Emitting-Diode.aspx" class="label label-warning">News</a>
   </div>
+</div>
 
 
