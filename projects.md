@@ -3,6 +3,25 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+<div class="row">
+    <div class="paper-img">
+      <img src="/images/papers/Lifi_Communication.jpg" class="thumbnail" width="200" height="200" />
+    </div>
+    <div class="paper-text">
+      <a href="https://coursera.org/share/e0209bfd5276fd9ef2bc9c9d1f7a5f54"><b>[F1] Neural Networks and Deep Learning
+</b></a> <span style="font-size:16px;"><i></i></span><br /> 
+      <span style="font-size:15px;"><i>
+</i></span> <br /> 
+      <a class="label label-info"> Contents <span class="abstract">In the first course of the Deep Learning Specialization, we will study the foundational concept of neural networks and deep learning. By the end, we will be familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+</span> </a> &nbsp; 
+        <a href="https://coursera.org/share/e0209bfd5276fd9ef2bc9c9d1f7a5f54">Certification</a> 
+        <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a> -->
+  </div>
+</div>
+
+
+
+
 <h1 id="Pub">Publications</h1>
 <hr />
 <h2 id="patents">Patents</h2>
