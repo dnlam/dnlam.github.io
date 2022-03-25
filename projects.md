@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-
+<h2 id="Pub">Publications</h2>
 <h3 id="2020">2020</h3>
 <hr />
 <div class="row">
