@@ -14,7 +14,7 @@ permalink: /projects/
 </i></span> <br /> 
       <a class="label label-info"> About  <span class="abstract">In the first course of the Deep Learning Specialization, we will study the foundational concept of neural networks and deep learning. By the end, we will be familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 </span> </a> &nbsp; 
-        <a href="https://www.coursera.org/account/accomplishments/certificate/SXEAV9FX9Q7M">Certificate</a> 
+        <a href="https://www.coursera.org/account/accomplishments/certificate/SXEAV9FX9Q7M" class="label label-success">Certificate</a> 
         <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a> -->
   </div>
 </div>
@@ -30,7 +30,7 @@ permalink: /projects/
 </i></span> <br /> 
       <a class="label label-info"> About  <span class="abstract">In the second course of the Deep Learning Specialization, we will open the deep learning black box to understand the processes that drive performance and generate good results systematically. By the end, we will learn the best practices to train and develop test sets and analyze bias/variance for building deep learning applications; be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence; and implement a neural network in TensorFlow.
 </span> </a> &nbsp; 
-        <a href="https://www.coursera.org/account/accomplishments/certificate/PSBN4VY96XLD">Certificate</a> 
+        <a href="https://www.coursera.org/account/accomplishments/certificate/PSBN4VY96XLD" class="label label-success">Certificate</a> 
         <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a> -->
   </div>
 </div>
@@ -46,7 +46,7 @@ permalink: /projects/
 </i></span> <br /> 
       <a class="label label-info"> About  <span class="abstract">This course will give us best practices for using TensorFlow, a popular open-source framework for machine learning. 
 </span> </a> &nbsp; 
-        <a href="https://www.coursera.org/account/accomplishments/certificate/PFHGWQBBGWFU">Certificate</a> 
+        <a href="https://www.coursera.org/account/accomplishments/certificate/PFHGWQBBGWFU" class="label label-success">Certificate</a> 
         <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a> -->
   </div>
 </div>
