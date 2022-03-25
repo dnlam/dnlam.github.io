@@ -18,7 +18,7 @@ permalink: /projects/
       <a class="label label-info"> Abstract <span class="abstract">The invention is concerned generally with wireless networks and in particular with a method and apparatus for orchestrating the execution of a plurality of mechanisms by one or more nodes in a wireless network.
 </span> </a> &nbsp; 
         <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-danger">Blog</a>  -->
-        <!-- <a href="https://www.leti-cea.fr/cea-tech/leti/Pages/Leti/Programmes-et-projets-soutenus/Liste-des-projets/5G-Conni.aspx" class="label label-danger">Blog</a> -->
+        <a href="https://www.leti-cea.fr/cea-tech/leti/Pages/Leti/Programmes-et-projets-soutenus/Liste-des-projets/5G-Conni.aspx" class="label label-danger">Blog</a>
   </div>
 </div>
 
