@@ -33,8 +33,6 @@ Under construction, I will update projects soon ...
       
       
         <a href="https://speechbot.github.io/pgslm/" class="label label-warning">Demo</a>
-      
-    </div>
   </div>
 
 {% for year in site.data.papers %}
