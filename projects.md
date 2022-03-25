@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-Under construction, I will update it soon ...
+Under construction, I will update projects soon ...
 {% for year in site.data.papers %}
 ### {{year[0]}}
 --------------
