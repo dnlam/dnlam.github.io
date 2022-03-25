@@ -3,7 +3,8 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-Under construction, I will update projects soon ...
+<h3 id="2019">2019</h3>
+<hr />
 <div class="row">
     <div class="paper-img">
       <img src="/fastblog/images/pol_iter.PNG" class="thumbnail" width="200" height="200" />
@@ -30,34 +31,7 @@ Under construction, I will update projects soon ...
       
       
         <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-danger">Blog</a> 
-      
-      
-        <a href="https://speechbot.github.io/pgslm/" class="label label-warning">Demo</a>
+        <a href="https://www.leti-cea.com/cea-tech/leti/english/Pages/What's-On/Press%20release/CEA-Leti-Researchers-Break-Throughput-Record-for-LiFi-Communications-Using-Single-GaN-Blue-Micro-Light-Emitting-Diode.aspx" class="label label-warning">News</a>
   </div>
 
-{% for year in site.data.papers %}
-### {{year[0]}}
---------------
-{% for paper in year[1] %}
-  <div class="row">
-    <div class="paper-img">
-      <img src="{{ paper.img }}" class="thumbnail" width="200" height="200" />
-    </div>
-    <div class="paper-text">
-      <a href="{{ paper.link }}"><b>{{ paper.title }}</b></a> <span style="font-size:16px;"><i>{{ paper.where }}</i></span><br> 
-      <span style="font-size:15px;"><i>{{ paper.authors }}</i></span> <br> 
-      <a class="label label-info"> Abstract <span class="abstract">{{ paper.abstract }}</span> </a> &nbsp; 
-      {% if paper.code and paper.code != '' %}
-        <a href="{{ paper.code }}" class="label label-success">Code</a>
-      {% endif %}
-      {% if paper.blog and paper.blog != '' %}
-        <a href="{{ paper.blog }}" class="label label-danger">Blog</a> 
-      {% endif %}
-      {% if paper.demo and paper.demo != '' %}
-        <a href="{{ paper.demo }}" class="label label-warning">Demo</a>
-      {% endif %}
-    </div>
-  </div>
-{% endfor %}
-{% endfor %}
 
