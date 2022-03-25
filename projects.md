@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/Lifi_Communication.jpg" class="thumbnail" width="200" height="200" />
+      <img src="/images/papers/f1.PNG" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
       <a href="https://coursera.org/share/e0209bfd5276fd9ef2bc9c9d1f7a5f54"><b>[F1] Neural Networks and Deep Learning
