@@ -32,6 +32,7 @@ permalink: /projects/
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
       <a class="label label-info"> About  <span class="abstract">In this course, we learned: (1) the principles behind machine learning problems such as classification, regression, clustering, and reinforcement learning, (2) Implement and analyze models such as linear models, kernel machines, neural networks, and graphical models, (3) Choose suitable models for different applications and (4) Implement and organize machine learning projects, from training, validation, parameter tuning, to feature engineering.
+      </span> </a> &nbsp;
         <a href="https://courses.edx.org/certificates/e5391e79663840f2bb5dbb8865856109" class="label label-success">Certificate</a> 
   </div>
 </div>
