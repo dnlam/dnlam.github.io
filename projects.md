@@ -12,7 +12,7 @@ permalink: /projects/
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
-      <a class="label label-info"> About  <span class="abstract">In the first course of the Deep Learning Specialization, we will study the foundational concept of neural networks and deep learning. By the end, we will be familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      <a class="label label-info"> About  <span class="abstract">In this course, we studied the foundational concept of neural networks and deep learning. By the end, we was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 </span> </a> &nbsp; 
         <a href="https://www.coursera.org/account/accomplishments/certificate/SXEAV9FX9Q7M" class="label label-success">Certificate</a> 
         <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a> -->
@@ -24,11 +24,11 @@ permalink: /projects/
       <img src="/images/papers/f2.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://coursera.org/share/e0209bfd5276fd9ef2bc9c9d1f7a5f54"><b>[F2] Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+      <a href="https://www.coursera.org/account/accomplishments/certificate/PSBN4VY96XLD"><b>[F2] Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
-      <a class="label label-info"> About  <span class="abstract">In the second course of the Deep Learning Specialization, we will open the deep learning black box to understand the processes that drive performance and generate good results systematically. By the end, we will learn the best practices to train and develop test sets and analyze bias/variance for building deep learning applications; be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence; and implement a neural network in TensorFlow.
+      <a class="label label-info"> About  <span class="abstract">In the second course of the Deep Learning Specialization, we opened the deep learning black box to understand the processes that drive performance and generate good results systematically. By the end, we learned the best practices to train and develop test sets and analyze bias/variance for building deep learning applications; be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence; and implement a neural network in TensorFlow.
 </span> </a> &nbsp; 
         <a href="https://www.coursera.org/account/accomplishments/certificate/PSBN4VY96XLD" class="label label-success">Certificate</a> 
         <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a> -->
@@ -37,20 +37,66 @@ permalink: /projects/
 
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/p3.png" class="thumbnail" width="200" height="200" />
+      <img src="/images/papers/rl1.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://coursera.org/share/e0209bfd5276fd9ef2bc9c9d1f7a5f54"><b>[F3] Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+      <a href="https://www.coursera.org/account/accomplishments/certificate/9NHWHJFTRZEZ"><b>[F3] Reinforcement Learning
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
-      <a class="label label-info"> About  <span class="abstract">This course will give us best practices for using TensorFlow, a popular open-source framework for machine learning. 
+      <a class="label label-info"> About  <span class="abstract">This course introduced the fundamentals of Reinforcement Learning including: (1) Formalize problems as Markov Decision Processes, (2) Understand basic exploration methods and the exploration/exploitation tradeoff, (3) Understand value functions, as a general-purpose tool for optimal decision-making and (4) Know how to implement dynamic programming as an efficient solution approach to an industrial control problem.
 </span> </a> &nbsp; 
-        <a href="https://www.coursera.org/account/accomplishments/certificate/PFHGWQBBGWFU" class="label label-success">Certificate</a> 
+        <a href="https://www.coursera.org/account/accomplishments/certificate/9NHWHJFTRZEZ" class="label label-success">Certificate</a> 
         <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a> -->
   </div>
 </div>
 
+<div class="row">
+    <div class="paper-img">
+      <img src="/images/papers/rl2.png" class="thumbnail" width="200" height="200" />
+    </div>
+    <div class="paper-text">
+      <a href="https://www.coursera.org/account/accomplishments/certificate/EEEXTWABZ3QP"><b>[F4] Sample-based Learning Methods
+</b></a> <span style="font-size:16px;"><i></i></span><br /> 
+      <span style="font-size:15px;"><i>
+</i></span> <br /> 
+      <a class="label label-info"> About  <span class="abstract">In this course, we shed light on several algorithms that can learn near optimal policies based on trial and error interaction with the environment. Learning from actual experience is striking because it requires no prior knowledge of the environment’s dynamics, yet can still attain optimal behavior. We covered intuitively simple but powerful Monte Carlo methods, and temporal difference learning methods including Q-learning. We wrapped up this course investigating how we can get the best of both worlds: algorithms that can combine model-based planning (similar to dynamic programming) and temporal difference updates to radically accelerate learning.
+</span> </a> &nbsp; 
+        <a href="https://www.coursera.org/account/accomplishments/certificate/EEEXTWABZ3QP" class="label label-success">Certificate</a> 
+        <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a> -->
+  </div>
+</div>
+
+<div class="row">
+    <div class="paper-img">
+      <img src="/images/papers/rl3.png" class="thumbnail" width="200" height="200" />
+    </div>
+    <div class="paper-text">
+      <a href="https://www.coursera.org/account/accomplishments/certificate/MSLWZ9ZCWKF8"><b>[F5] Prediction and Control with Function Approximation
+</b></a> <span style="font-size:16px;"><i></i></span><br /> 
+      <span style="font-size:15px;"><i>
+</i></span> <br /> 
+      <a class="label label-info"> About  <span class="abstract">In this course, we learned how to solve problems with large, high-dimensional, and potentially infinite state spaces. We studied that estimating value functions can be cast as a supervised learning problem (function approximation) allowing you to build agents that carefully balance generalization and discrimination in order to maximize reward. We begun this journey by investigating how our policy evaluation or prediction methods like Monte Carlo and TD can be extended to the function approximation setting. We learned about feature construction techniques for RL, and representation learning via neural networks and backprop. We concluded this course with a deep-dive into policy gradient methods; a way to learn policies directly without learning a value function. In this course we solved two continuous-state control tasks and investigate the benefits of policy gradient methods in a continuous-action environment. 
+</span> </a> &nbsp; 
+        <a href="https://www.coursera.org/account/accomplishments/certificate/MSLWZ9ZCWKF8" class="label label-success">Certificate</a> 
+        <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a> -->
+  </div>
+</div>
+
+<div class="row">
+    <div class="paper-img">
+      <img src="/images/papers/edx1.png" class="thumbnail" width="200" height="200" />
+    </div>
+    <div class="paper-text">
+      <a href="https://courses.edx.org/certificates/e5391e79663840f2bb5dbb8865856109"><b>[F6] Machine Learning with Python - From Linear Models to Deep Learning
+</b></a> <span style="font-size:16px;"><i></i></span><br /> 
+      <span style="font-size:15px;"><i>
+</i></span> <br /> 
+      <a class="label label-info"> About  <span class="abstract">In this course, we learned: (1) the principles behind machine learning problems such as classification, regression, clustering, and reinforcement learning, (2) Implement and analyze models such as linear models, kernel machines, neural networks, and graphical models, (3) Choose suitable models for different applications and (4) Implement and organize machine learning projects, from training, validation, parameter tuning, to feature engineering.
+        <a href="https://courses.edx.org/certificates/e5391e79663840f2bb5dbb8865856109" class="label label-success">Certificate</a> 
+        <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a> -->
+  </div>
+</div>
 
 <h1 id="Pub">Publications</h1>
 <hr />
