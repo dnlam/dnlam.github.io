@@ -7,7 +7,7 @@ cover: false
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
 <p align="justify">
-My name is Ngoc-Lam DINH (Lam DINH). Currently, I am a Ph.D candidate at the Commissariat à l'Énergie Atomique (CEA) and Université Grenoble Alpes in Grenoble, France. Under supervision of <a href="https://fr.linkedin.com/in/emilio-calvanese-strinati-6g">Prof. Emilio Calvanese Strinati</a> and <a href="https://fr.linkedin.com/in/mickael-maman-6b1a3a82">Mr. Mickael Mamän</a> and Mr. Mickael Mamän, my research topic jointly applies learning methods and advanced communication protocols for ultra-reliable and low-latency communications (URLLC) in 5G systems and beyond.<br> <br>
+My name is Ngoc-Lam DINH (Lam DINH). Currently, I am a Ph.D candidate at the Commissariat à l'Énergie Atomique (CEA) and Université Grenoble Alpes in Grenoble, France. Under supervision of <a href="https://fr.linkedin.com/in/emilio-calvanese-strinati-6g">Prof. Emilio Calvanese Strinati</a> and <a href="https://fr.linkedin.com/in/mickael-maman-6b1a3a82">Mr. Mickael Mamän</a>, my research topic jointly applies learning methods and advanced communication protocols for ultra-reliable and low-latency communications (URLLC) in 5G systems and beyond.<br> <br>
 
 Before that, I graduated from Ha Noi University of Science and Technology  (Vietnam) in 2016 with a degree in Electronics and Telecommunications Engineering. My training mainly focused on several areas: (1) Digital Signal Processing, (2) Wireless Communication and (3) Embedded Programming. Then, I took part in an international academic exchange program at Universidad Politecnica de Valencia (Spain) in 2017, with the courses given in Signal Theory, Wireless Telecommunications and Optical Networks  <br>  <br>
 
