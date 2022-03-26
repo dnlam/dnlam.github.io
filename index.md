@@ -13,7 +13,7 @@ Before that, I graduated from Ha Noi University of Science and Technology  (Viet
 
 <a href="http://monabiphot.ens-paris-saclay.fr/">My Master's degree</a> is jointly awarded by the École Normale Supérieure Paris Saclay (France) and the Universidad Complutense de Madrid (Spain) in 2019. The courses focused on the applications of molecular photonics for telecommunications and biosensors.<br> <br>
 
-My research interests are Digital Signal Processing, Reinforcement Learning in Network protocol and Image Processing with Deep Learning.<br> <br>
+My research interests are Digital Signal Processing, Learning approaches in Wireless Commmunications and Image Processing with Deep Learning.<br> <br>
 
 In my free time, I am intesrested in playing football, hiking and visiting beautiful landscapes around Grenoble.<br>
 
