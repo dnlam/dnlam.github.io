@@ -3,6 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+
 <div class="row">
     <div class="paper-img">
       <img src="/images/papers/f1.PNG" class="thumbnail" width="200" height="200" />
@@ -19,7 +20,23 @@ permalink: /projects/
   </div>
 </div>
 
+<hr />
+
 <div class="row">
+    <div class="paper-img">
+      <img src="/images/papers/edx1.png" class="thumbnail" width="200" height="200" />
+    </div>
+    <div class="paper-text">
+      <a href="https://courses.edx.org/certificates/e5391e79663840f2bb5dbb8865856109"><b>[F2] Machine Learning with Python - From Linear Models to Deep Learning
+</b></a> <span style="font-size:16px;"><i></i></span><br /> 
+      <span style="font-size:15px;"><i>
+</i></span> <br /> 
+      <a class="label label-info"> About  <span class="abstract">In this course, we learned: (1) the principles behind machine learning problems such as classification, regression, clustering, and reinforcement learning, (2) Implement and analyze models such as linear models, kernel machines, neural networks, and graphical models, (3) Choose suitable models for different applications and (4) Implement and organize machine learning projects, from training, validation, parameter tuning, to feature engineering.
+        <a href="https://courses.edx.org/certificates/e5391e79663840f2bb5dbb8865856109" class="label label-success">Certificate</a> 
+  </div>
+</div>
+
+<!-- <div class="row">
     <div class="paper-img">
       <img src="/images/papers/f2.png" class="thumbnail" width="200" height="200" />
     </div>
@@ -31,9 +48,10 @@ permalink: /projects/
       <a class="label label-info"> About  <span class="abstract">In the second course of the Deep Learning Specialization, we opened the deep learning black box to understand the processes that drive performance and generate good results systematically. By the end, we learned the best practices to train and develop test sets and analyze bias/variance for building deep learning applications; be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence; and implement a neural network in TensorFlow.
 </span> </a> &nbsp; 
         <a href="https://www.coursera.org/account/accomplishments/certificate/PSBN4VY96XLD" class="label label-success">Certificate</a> 
-        <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a> -->
   </div>
-</div>
+</div> -->
+
+<hr />
 
 <div class="row">
     <div class="paper-img">
@@ -51,7 +69,7 @@ permalink: /projects/
   </div>
 </div>
 
-<div class="row">
+<!-- <div class="row">
     <div class="paper-img">
       <img src="/images/papers/rl2.png" class="thumbnail" width="200" height="200" />
     </div>
@@ -63,11 +81,10 @@ permalink: /projects/
       <a class="label label-info"> About  <span class="abstract">In this course, we shed light on several algorithms that can learn near optimal policies based on trial and error interaction with the environment. Learning from actual experience is striking because it requires no prior knowledge of the environment’s dynamics, yet can still attain optimal behavior. We covered intuitively simple but powerful Monte Carlo methods, and temporal difference learning methods including Q-learning. We wrapped up this course investigating how we can get the best of both worlds: algorithms that can combine model-based planning (similar to dynamic programming) and temporal difference updates to radically accelerate learning.
 </span> </a> &nbsp; 
         <a href="https://www.coursera.org/account/accomplishments/certificate/EEEXTWABZ3QP" class="label label-success">Certificate</a> 
-        <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a> -->
   </div>
-</div>
+</div> -->
 
-<div class="row">
+<!-- <div class="row">
     <div class="paper-img">
       <img src="/images/papers/rl3.png" class="thumbnail" width="200" height="200" />
     </div>
@@ -79,24 +96,10 @@ permalink: /projects/
       <a class="label label-info"> About  <span class="abstract">In this course, we learned how to solve problems with large, high-dimensional, and potentially infinite state spaces. We studied that estimating value functions can be cast as a supervised learning problem (function approximation) allowing you to build agents that carefully balance generalization and discrimination in order to maximize reward. We begun this journey by investigating how our policy evaluation or prediction methods like Monte Carlo and TD can be extended to the function approximation setting. We learned about feature construction techniques for RL, and representation learning via neural networks and backprop. We concluded this course with a deep-dive into policy gradient methods; a way to learn policies directly without learning a value function. In this course we solved two continuous-state control tasks and investigate the benefits of policy gradient methods in a continuous-action environment. 
 </span> </a> &nbsp; 
         <a href="https://www.coursera.org/account/accomplishments/certificate/MSLWZ9ZCWKF8" class="label label-success">Certificate</a> 
-        <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a> -->
   </div>
-</div>
+</div> -->
 
-<div class="row">
-    <div class="paper-img">
-      <img src="/images/papers/edx1.png" class="thumbnail" width="200" height="200" />
-    </div>
-    <div class="paper-text">
-      <a href="https://courses.edx.org/certificates/e5391e79663840f2bb5dbb8865856109"><b>[F6] Machine Learning with Python - From Linear Models to Deep Learning
-</b></a> <span style="font-size:16px;"><i></i></span><br /> 
-      <span style="font-size:15px;"><i>
-</i></span> <br /> 
-      <a class="label label-info"> About  <span class="abstract">In this course, we learned: (1) the principles behind machine learning problems such as classification, regression, clustering, and reinforcement learning, (2) Implement and analyze models such as linear models, kernel machines, neural networks, and graphical models, (3) Choose suitable models for different applications and (4) Implement and organize machine learning projects, from training, validation, parameter tuning, to feature engineering.
-        <a href="https://courses.edx.org/certificates/e5391e79663840f2bb5dbb8865856109" class="label label-success">Certificate</a> 
-        <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a> -->
-  </div>
-</div>
+
 
 <h1 id="Pub">Publications</h1>
 <hr />
