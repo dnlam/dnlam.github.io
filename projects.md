@@ -9,7 +9,7 @@ permalink: /projects/
       <img src="/images/papers/f1.PNG" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://coursera.org/share/e0209bfd5276fd9ef2bc9c9d1f7a5f54"><b>[F1] Neural Networks and Deep Learning
+      <a href="https://www.coursera.org/account/accomplishments/certificate/SXEAV9FX9Q7M"><b>[F1] Neural Networks and Deep Learning
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
