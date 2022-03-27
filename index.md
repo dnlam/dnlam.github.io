@@ -15,7 +15,7 @@ Before that, I graduated from <i> Ha Noi University of Science and Technology </
 
 My research interests are <b> Digital signal processing</b>, <b> Learning approaches for wireless communication protocols (IoT, 5G and beyond)</b> and <b> Image processing with Deep Learning</b>. <br> <br>
 
-In my free time, I am intesrested in playing football, hiking and visiting beautiful landscapes around Grenoble.<br>
+In my free time, I am interested in playing football, skiing and visiting beautiful landscapes around Grenoble.<br>
 
 </p>
 
