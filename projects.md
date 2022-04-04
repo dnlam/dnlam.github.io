@@ -58,6 +58,7 @@ permalink: /projects/
 
 <hr />
 
+
 <h1 id="Pub">Formations</h1>
 <hr />
 <div class="row">
@@ -79,16 +80,16 @@ permalink: /projects/
 
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/edx1.png" class="thumbnail" width="200" height="200" />
+      <img src="/images/papers/f2.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://courses.edx.org/certificates/e5391e79663840f2bb5dbb8865856109"><b>[F2] Machine Learning with Python - From Linear Models to Deep Learning
+      <a href="https://www.coursera.org/account/accomplishments/certificate/PSBN4VY96XLD"><b>[F2] Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
-      <a class="label label-info"> About  <span class="abstract">In this course, we learned: (1) the principles behind machine learning problems such as classification, regression, clustering, and reinforcement learning, (2) Implement and analyze models such as linear models, kernel machines, neural networks, and graphical models, (3) Choose suitable models for different applications and (4) Implement and organize machine learning projects, from training, validation, parameter tuning, to feature engineering.
-      </span> </a> &nbsp;
-        <a href="https://courses.edx.org/certificates/e5391e79663840f2bb5dbb8865856109" class="label label-success">Certificate</a> 
+      <a class="label label-info"> About  <span class="abstract">In the second course of the Deep Learning Specialization, we opened the deep learning black box to understand the processes that drive performance and generate good results systematically. By the end, we learned the best practices to train and develop test sets and analyze bias/variance for building deep learning applications; be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence; and implement a neural network in TensorFlow.
+</span> </a> &nbsp; 
+        <a href="https://www.coursera.org/account/accomplishments/certificate/PSBN4VY96XLD" class="label label-success">Certificate</a> 
   </div>
 </div>
 
@@ -96,16 +97,16 @@ permalink: /projects/
 
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/f2.png" class="thumbnail" width="200" height="200" />
+      <img src="/images/papers/edx1.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://www.coursera.org/account/accomplishments/certificate/PSBN4VY96XLD"><b>[F3] Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+      <a href="https://courses.edx.org/certificates/e5391e79663840f2bb5dbb8865856109"><b>[F3] Machine Learning with Python - From Linear Models to Deep Learning
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
-      <a class="label label-info"> About  <span class="abstract">In the second course of the Deep Learning Specialization, we opened the deep learning black box to understand the processes that drive performance and generate good results systematically. By the end, we learned the best practices to train and develop test sets and analyze bias/variance for building deep learning applications; be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence; and implement a neural network in TensorFlow.
-</span> </a> &nbsp; 
-        <a href="https://www.coursera.org/account/accomplishments/certificate/PSBN4VY96XLD" class="label label-success">Certificate</a> 
+      <a class="label label-info"> About  <span class="abstract">In this course, we learned: (1) the principles behind machine learning problems such as classification, regression, clustering, and reinforcement learning, (2) Implement and analyze models such as linear models, kernel machines, neural networks, and graphical models, (3) Choose suitable models for different applications and (4) Implement and organize machine learning projects, from training, validation, parameter tuning, to feature engineering.
+      </span> </a> &nbsp;
+        <a href="https://courses.edx.org/certificates/e5391e79663840f2bb5dbb8865856109" class="label label-success">Certificate</a> 
   </div>
 </div>
 
