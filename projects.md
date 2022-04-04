@@ -127,6 +127,8 @@ permalink: /projects/
   </div>
 </div>
 
+<hr />
+
 <div class="row">
     <div class="paper-img">
       <img src="/images/papers/rl2.png" class="thumbnail" width="200" height="200" />
@@ -145,7 +147,7 @@ permalink: /projects/
 <hr />
 
 <div class="row">
-    <div class="papZer-img">
+    <div class="paper-img">
       <img src="/images/papers/rl3.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
