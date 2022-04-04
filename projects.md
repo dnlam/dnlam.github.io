@@ -56,7 +56,7 @@ permalink: /projects/
   </div>
 </div>
 
-
+<hr />
 
 <h1 id="Pub">Formations</h1>
 <hr />
@@ -72,7 +72,6 @@ permalink: /projects/
       <a class="label label-info"> About  <span class="abstract">In this course, we studied the foundational concept of neural networks and deep learning. By the end, we was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 </span> </a> &nbsp; 
         <a href="https://www.coursera.org/account/accomplishments/certificate/SXEAV9FX9Q7M" class="label label-success">Certificate</a> 
-        <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-warning">News</a> -->
   </div>
 </div>
 
@@ -92,6 +91,8 @@ permalink: /projects/
         <a href="https://courses.edx.org/certificates/e5391e79663840f2bb5dbb8865856109" class="label label-success">Certificate</a> 
   </div>
 </div>
+
+<hr />
 
 <div class="row">
     <div class="paper-img">
@@ -141,6 +142,8 @@ permalink: /projects/
   </div>
 </div>
 
+<hr />
+
 <div class="row">
     <div class="papZer-img">
       <img src="/images/papers/rl3.png" class="thumbnail" width="200" height="200" />
@@ -156,3 +159,4 @@ permalink: /projects/
   </div>
 </div>
 
+<hr />
