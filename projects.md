@@ -59,7 +59,24 @@ permalink: /projects/
 <hr />
 
 
-<h1 id="Pub">Formations</h1>
+<h1 id="Pub">Certificates</h1>
+<hr />
+<h2 id="conf">Intellectual Property</h2>
+<div class="row">
+    <div class="paper-img">
+      <img src="/images/papers/f1.PNG" class="thumbnail" width="200" height="200" />
+    </div>
+    <div class="paper-text">
+      <a href="https://www.coursera.org/account/accomplishments/certificate/SXEAV9FX9Q7M"><b>[F1] Neural Networks and Deep Learning
+</b></a> <span style="font-size:16px;"><i></i></span><br /> 
+      <span style="font-size:15px;"><i>
+</i></span> <br /> 
+      <a class="label label-info"> About  <span class="abstract">In this course, we studied the foundational concept of neural networks and deep learning. By the end, we was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+</span> </a> &nbsp; 
+        <a href="https://www.coursera.org/account/accomplishments/certificate/SXEAV9FX9Q7M" class="label label-success">Certificate</a> 
+  </div>
+</div>
+
 <hr />
 <div class="row">
     <div class="paper-img">
