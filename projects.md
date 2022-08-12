@@ -62,28 +62,31 @@ permalink: /projects/
 <h1 id="Pub">Certificates</h1>
 <hr />
 <h2 id="conf">Intellectual Property</h2>
+<hr />
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/f1.PNG" class="thumbnail" width="200" height="200" />
+      <img src="/images/papers/c1.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://www.coursera.org/account/accomplishments/certificate/SXEAV9FX9Q7M"><b>[F1] Neural Networks and Deep Learning
+      <a href="https://nx23410.your-storageshare.de/s/NwA8yqQZ4F3nzee"><b>[C1] Intégrer La Propriété Industrielle Dans Son Activité Professionnelle
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
-      <a class="label label-info"> About  <span class="abstract">In this course, we studied the foundational concept of neural networks and deep learning. By the end, we was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      <a class="label label-info"> About  <span class="abstract">In this formation, we studied what is intellectual property, what is a patent and how to depot a patent.
 </span> </a> &nbsp; 
-        <a href="https://www.coursera.org/account/accomplishments/certificate/SXEAV9FX9Q7M" class="label label-success">Certificate</a> 
+        <a href="https://nx23410.your-storageshare.de/s/NwA8yqQZ4F3nzee" class="label label-success">Certificate</a> 
   </div>
 </div>
 
+<hr />
+<h2 id="conf">Deep Learning</h2>
 <hr />
 <div class="row">
     <div class="paper-img">
       <img src="/images/papers/f1.PNG" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://www.coursera.org/account/accomplishments/certificate/SXEAV9FX9Q7M"><b>[F1] Neural Networks and Deep Learning
+      <a href="https://www.coursera.org/account/accomplishments/certificate/SXEAV9FX9Q7M"><b>[C2] Neural Networks and Deep Learning
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
@@ -100,7 +103,7 @@ permalink: /projects/
       <img src="/images/papers/f2.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://www.coursera.org/account/accomplishments/certificate/PSBN4VY96XLD"><b>[F2] Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+      <a href="https://www.coursera.org/account/accomplishments/certificate/PSBN4VY96XLD"><b>[C3] Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
@@ -117,7 +120,7 @@ permalink: /projects/
       <img src="/images/papers/edx1.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://courses.edx.org/certificates/e5391e79663840f2bb5dbb8865856109"><b>[F3] Machine Learning with Python - From Linear Models to Deep Learning
+      <a href="https://courses.edx.org/certificates/e5391e79663840f2bb5dbb8865856109"><b>[C4] Machine Learning with Python - From Linear Models to Deep Learning
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
@@ -128,13 +131,14 @@ permalink: /projects/
 </div>
 
 <hr />
-
+<h2 id="conf">Reinforcement Learning</h2>
+<hr />
 <div class="row">
     <div class="paper-img">
       <img src="/images/papers/rl1.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://www.coursera.org/account/accomplishments/certificate/9NHWHJFTRZEZ"><b>[F4] Reinforcement Learning
+      <a href="https://www.coursera.org/account/accomplishments/certificate/9NHWHJFTRZEZ"><b>[C5] Reinforcement Learning
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
@@ -152,7 +156,7 @@ permalink: /projects/
       <img src="/images/papers/rl2.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://www.coursera.org/account/accomplishments/certificate/EEEXTWABZ3QP"><b>[F5] Sample-based Learning Methods
+      <a href="https://www.coursera.org/account/accomplishments/certificate/EEEXTWABZ3QP"><b>[C6] Sample-based Learning Methods
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
@@ -169,7 +173,7 @@ permalink: /projects/
       <img src="/images/papers/rl3.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://www.coursera.org/account/accomplishments/certificate/MSLWZ9ZCWKF8"><b>[F6] Prediction and Control with Function Approximation
+      <a href="https://www.coursera.org/account/accomplishments/certificate/MSLWZ9ZCWKF8"><b>[C7] Prediction and Control with Function Approximation
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
