@@ -7,9 +7,9 @@ cover: false
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
 <p align="justify">
-My name is Ngoc-Lam DINH (Lam DINH). Currently, I am a research engineer at the Huawei Paris Research Center (France). My main research focuses on improving IP networks using safe reinforcement learning.
+My name is Ngoc-Lam DINH (Lam DINH). Currently, I am a research engineer at the Huawei Paris Research Center (France). My main research focuses on improving IP networks using safe reinforcement learning. <br> <br>
 
-In 2023, I obtained my Ph.D degree at the <i> Université Grenoble Alpes (CEA-LETI) </i> in France. My research topic is related to the application of <b>(reinforcement) learning methods</b> and <b>wireless protocols</b> for Ultra-Reliable, Low-Latency Communications (URLLC) in 5G systems and beyond.
+In 2023, I obtained my Ph.D degree at the <i> Université Grenoble Alpes (CEA-LETI) </i> in France. My research topic is related to the application of <b>(reinforcement) learning methods</b> and <b>wireless protocols</b> for Ultra-Reliable, Low-Latency Communications (URLLC) in 5G systems and beyond. <br> <br>
 <!-- Under supervision of <a href="https://fr.linkedin.com/in/emilio-calvanese-strinati-6g"><b> Prof. Emilio Calvanese Strinati</b> </a> and <a href="https://fr.linkedin.com/in/mickael-maman-6b1a3a82"> <b> Mr. Mickael Mamän </b> </a>, my research topic jointly applies <b> Learning methods </b> and <b> Advanced communication protocols </b> for Ultra-Reliable and Low-Latency Communications <b> (URLLC) </b> in 5G systems and beyond.<br> <br> -->
 
 <a href="http://monabiphot.ens-paris-saclay.fr/"><b> My Master's degree </b> </a> is jointly awarded by the <i> École Normale Supérieure Paris Saclay (France) </i> and the <i> Universidad Complutense de Madrid (Spain) </i> in 2019. The courses offered interdisciplinary qualifications in the domain of <b> Molecular photonics </b> for telecommunications and biosensors.<br> <br>
