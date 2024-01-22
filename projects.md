@@ -47,7 +47,7 @@ permalink: /projects/
     <div class="paper-text">
       <a href="https://arxiv.org/abs/2401.05525"><b>[C] Towards Safe Load Balancing based on Control Barrier Functions and Deep Reinforcement Learning
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
-      <span style="font-size:15px;"><i><b> Network optimization, Safety, Deep Reinforcement Learning (DRL), Control Barrier Function (CBF).</b></i></span> <br /> 
+      <span style="font-size:15px;"><i><b> Network optimization, GPU acceleration, Safety, Deep Reinforcement Learning (DRL), Control Barrier Function (CBF).</b></i></span> <br /> 
       <a class="label label-info"> Abstract <span class="abstract">Deep Reinforcement Learning (DRL) algorithms have recently made significant strides in improving network performance. Nonetheless, their practical use is still limited in the absence of safe exploration and safe decision-making. In the context of commercial solutions, reliable and safe-to-operate systems are of paramount importance. Taking this problem into account, we propose a safe learning-based load balancing algorithm for Software Defined-Wide Area Network (SD-WAN), which is empowered by Deep Reinforcement Learning (DRL) combined with a Control Barrier Function (CBF). It safely projects unsafe actions into feasible ones during both training and testing, and it guides learning towards safe policies. We successfully implemented the solution on GPU to accelerate training by approximately 110x times and achieve model updates for on-policy methods within a few seconds, making the solution practical. We show that our approach delivers near-optimal Quality-of-Service (QoS) performance in terms of end-to-end delay while respecting safety requirements related to link capacity constraints. We also demonstrated that on-policy learning based on Proximal Policy Optimization (PPO) performs better than off-policy learning with Deep Deterministic Policy Gradient (DDPG) when both are combined with a CBF for safe load balancing. 
 </span> </a> &nbsp; 
         <a href="https://arxiv.org/abs/2401.05525" class="label label-danger">Link</a> 
@@ -55,6 +55,23 @@ permalink: /projects/
 </div>
 
 <hr />
+
+<div class="row">
+    <div class="paper-img">
+      <img src="/images/papers/maddpg.png" class="thumbnail" width="200" height="200" />
+    </div>
+    <div class="paper-text">
+      <a href="https://arxiv.org/abs/2401.05525"><b>[C] Hybrid Radio Resource Management Based on Multi-Agent Reinforcement Learning
+</b></a> <span style="font-size:16px;"><i></i></span><br /> 
+      <span style="font-size:15px;"><i><b> Wireless optimization, Multi-Agent Deep Reinforcement Learning (MARL), System level simulation.</b></i></span> <br /> 
+      <a class="label label-info"> Abstract <span class="abstract">In this paper, we propose a novel hybrid grant-based and grant-free radio access scheme. We provide two multi-agent reinforcement learning algorithms to optimize a global network objective in terms of latency, reliability and network throughput: Multi-Agent Deep Q-Learning (MADQL) and Multi-Agent Deep Deterministic Policy Gradient (MADDPG). In MADQL, each user (agent) learns its optimal action-value function, which is based only on its local observation, and performs an optimal opportunistic action using the shared spectrum. MADDPG involves the attached gNB function as a global observer (critic), which criticizes the action of each associated agent (actor) in the network. By leveraging centralised training and decentralised execution, we achieve a shared goal better than the first algorithm. Then, through a system level simulation where the full protocol stack is considered, we show the gain of our approach to efficiently manage radio resources and guarantee latency.
+</span> </a> &nbsp; 
+        <a href="https://ieeexplore.ieee.org/document/10188350" class="label label-danger">Link</a> 
+  </div>
+</div>
+
+<hr />
+
 
 <div class="row">
     <div class="paper-img">
