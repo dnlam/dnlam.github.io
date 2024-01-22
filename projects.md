@@ -10,9 +10,8 @@ permalink: /projects/
       <img src="/images/papers/p1.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href=""><b> [P] Method and apparatus for orchestrating the execution of mechanisms in a wireless network </b></a> <span style="font-size:16px;"><i>Patent 2103542, filled in March,2021 </i></span><br /> 
-      <span style="font-size:15px;"><i><b> Early Decision Making  </b></i>.
-</i></span> <br /> 
+      <a href=""><b> [P] Method to exploit latency distribution forearly decision making, </b></a> <span style="font-size:16px;"><i>Patent 2103542, filled in March,2021 </i></span><br /> 
+      <span style="font-size:15px;"><i><b> Early Decision Making.  </b></i></span> <br /> 
       <a class="label label-info"> Abstract <span class="abstract">The invention is concerned generally with wireless networks and in particular with a method and apparatus for orchestrating the execution of a plurality of mechanisms by one or more nodes in a wireless network.
 </span> </a> &nbsp; 
         <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-danger">Blog</a>  -->
@@ -26,8 +25,7 @@ permalink: /projects/
     </div>
     <div class="paper-text">
       <a href=""><b> [P] Methods and apparatus for jitter-aware scheduling in wireless Time Sensitive Network communications, </b></a> <span style="font-size:16px;"><i>Patent 2103542, filled in May,2021 </i></span><br /> 
-      <span style="font-size:15px;"><i><b> Network Determinism </b></i>.
-</i></span> <br /> 
+      <span style="font-size:15px;"><i><b> Network Determinism.</b></i></span> <br /> 
       <a class="label label-info"> Abstract <span class="abstract">We introduce a jitter-aware orchestration method that forces latency to fall within predetermined windows.
 </span> </a> &nbsp; 
         <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-danger">Blog</a>  -->
@@ -43,8 +41,7 @@ permalink: /projects/
     </div>
     <div class="paper-text">
       <a href="https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-021-02067-2"><b> [J] Beyond Private 5G  Networks: Applications, Architectures, Operator Models and Technological Enablers</b></a> <span style="font-size:16px;"><i></i></span><br /> 
-      <span style="font-size:15px;"><i><b> 5G Network Architecture and Orchestration </b></i>.
-</i></span> <br /> 
+      <span style="font-size:15px;"><i><b> 5G Network Architecture and Orchestration. </b></i></span> <br /> 
       <a class="label label-info"> Abstract <span class="abstract">Private networks will play a key role in 5G and beyond to enable smart factories with the required better deployment, operation and flexible usage of available resource and infrastructure. 5G private networks will offer a lean and agile solution to effectively deploy and operate services with stringent and heterogeneous constraints in terms of reliability, latency, re-configurability and re-deployment of resources as well as issues related to governance and ownership of 5G components, and elements. In this paper, we present a novel approach to operator models, specifically targeting 5G and beyond private networks. We apply the proposed operator models to different network architecture options and to a selection of relevant use cases offering mixed private–public network operator governance and ownership. Moreover, several key enabling technologies have been identified for 5G private networks. Before the deployment, stakeholders should consider spectrum allocation and on-site channel measurements in order to fully understand the propagation characteristic of a given environment and to set up end-to-end system parameters. During the deployment, a monitoring tools will support to validate the deployment and to make sure that the end-to-end system meet the target KPI. Finally, some optimization can be made individually for service placement, network slicing and orchestration or jointly at radio access, multi-access edge computing or core network level.
 </span> </a> &nbsp; 
         <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-danger">Blog</a>  -->
@@ -100,6 +97,23 @@ permalink: /projects/
 </div>
 
 <hr />
+
+<div class="row">
+    <div class="paper-img">
+      <img src="/images/papers/lyapunov.png" class="thumbnail" width="200" height="200" />
+    </div>
+    <div class="paper-text">
+      <a href="https://arxiv.org/abs/2401.05525"><b>[C] Towards URLLC with Proactive HARQ Adaptation
+</b></a> <span style="font-size:16px;"><i></i></span><br /> 
+      <span style="font-size:15px;"><i><b> Lyapunov optimization, System level simulation.</b></i></span> <br /> 
+      <a class="label label-info"> Abstract <span class="abstract">In this work, we propose a dynamic decision maker algorithm to improve the proactive HARQ protocol for beyond 5G networks. Based on Lyapunov stochastic optimization, our adaptation control framework dynamically selects the number of proactive retransmissions for intermittent URLLC traffic scenarios under time-varying channel conditions without requiring any prior knowledge associated with this stochastic process. It then better exploits the trade-off between Radio Access Network (RAN) latency, reliability and resource efficiency, which is still limited in its realization on current HARQ designs. We then evaluate the performance of several HARQ strategies and show that our proposal further improves latency over the reactive regime without affecting the resource efficiency such as fixed proactive retransmission while maintaining target reliability.
+</span> </a> &nbsp; 
+        <a href="https://ieeexplore.ieee.org/abstract/document/9815615" class="label label-danger">Link</a> 
+  </div>
+</div>
+
+<hr />
+
 
 <div class="row">
     <div class="paper-img">
