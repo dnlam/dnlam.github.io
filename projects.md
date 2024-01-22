@@ -72,7 +72,7 @@ permalink: /projects/
       <img src="/images/papers/maddpg.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://arxiv.org/abs/2401.05525"><b>[C] Hybrid Radio Resource Management Based on Multi-Agent Reinforcement Learning
+      <a href="https://ieeexplore.ieee.org/document/10188350"><b>[C] Hybrid Radio Resource Management Based on Multi-Agent Reinforcement Learning
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i><b> Wireless optimization, Multi-Agent Deep Reinforcement Learning (MARL), System level simulation.</b></i></span> <br /> 
       <a class="label label-info"> Abstract <span class="abstract">In this paper, we propose a novel hybrid grant-based and grant-free radio access scheme. We provide two multi-agent reinforcement learning algorithms to optimize a global network objective in terms of latency, reliability and network throughput: Multi-Agent Deep Q-Learning (MADQL) and Multi-Agent Deep Deterministic Policy Gradient (MADDPG). In MADQL, each user (agent) learns its optimal action-value function, which is based only on its local observation, and performs an optimal opportunistic action using the shared spectrum. MADDPG involves the attached gNB function as a global observer (critic), which criticizes the action of each associated agent (actor) in the network. By leveraging centralised training and decentralised execution, we achieve a shared goal better than the first algorithm. Then, through a system level simulation where the full protocol stack is considered, we show the gain of our approach to efficiently manage radio resources and guarantee latency.
@@ -87,7 +87,7 @@ permalink: /projects/
       <img src="/images/papers/lyapunov.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://arxiv.org/abs/2401.05525"><b>[C] Dynamic Resource Scheduling Optimization for Ultra-Reliable Low Latency Communications: From Simulation to Experimentation
+      <a href="https://ieeexplore.ieee.org/abstract/document/9977893"><b>[C] Dynamic Resource Scheduling Optimization for Ultra-Reliable Low Latency Communications: From Simulation to Experimentation
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i><b> Lyapunov optimization, System level simulation, Hardware experimentation.</b></i></span> <br /> 
       <a class="label label-info"> Abstract <span class="abstract">In this paper, we propose a dynamic and efficient resource scheduling based on Lyapunov's optimization for Ultra-Reliable Low Latency Communications, taking into account the traffic arrival at the network layer, the queue behaviors at the data link layer and the risk that the applied decision might result in packet losses. The trade-off between the resource efficiency, latency and reliability is achieved by the timing and intensity of decisions and is adapted to dynamic scenarios (e.g., random bursty traffic, time-varying channel). Our queue-aware and channel-aware solution is evaluated in terms of latency, reliability outage and resource efficiency in a system-level simulator and validated by an experimental testbed using OpenAirInterface.
@@ -103,7 +103,7 @@ permalink: /projects/
       <img src="/images/papers/lyapunov.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://arxiv.org/abs/2401.05525"><b>[C] Towards URLLC with Proactive HARQ Adaptation
+      <a href="https://ieeexplore.ieee.org/abstract/document/9815615"><b>[C] Towards URLLC with Proactive HARQ Adaptation
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i><b> Lyapunov optimization, System level simulation.</b></i></span> <br /> 
       <a class="label label-info"> Abstract <span class="abstract">In this work, we propose a dynamic decision maker algorithm to improve the proactive HARQ protocol for beyond 5G networks. Based on Lyapunov stochastic optimization, our adaptation control framework dynamically selects the number of proactive retransmissions for intermittent URLLC traffic scenarios under time-varying channel conditions without requiring any prior knowledge associated with this stochastic process. It then better exploits the trade-off between Radio Access Network (RAN) latency, reliability and resource efficiency, which is still limited in its realization on current HARQ designs. We then evaluate the performance of several HARQ strategies and show that our proposal further improves latency over the reactive regime without affecting the resource efficiency such as fixed proactive retransmission while maintaining target reliability.
@@ -114,6 +114,37 @@ permalink: /projects/
 
 <hr />
 
+<div class="row">
+    <div class="paper-img">
+      <img src="/images/papers/lyapunov.png" class="thumbnail" width="200" height="200" />
+    </div>
+    <div class="paper-text">
+      <a href="https://ieeexplore.ieee.org/abstract/document/9860872"><b>[C] Proactive Resource Scheduling for 5G and Beyond Ultra-Reliable Low Latency Communications
+</b></a> <span style="font-size:16px;"><i></i></span><br /> 
+      <span style="font-size:15px;"><i><b> System level simulation.</b></i></span> <br /> 
+      <a class="label label-info"> Abstract <span class="abstract">Effective resource use in Ultra-Reliable and Low-Latency Communications (URLLC) is one of the main challenges for 5G and beyond systems. In this paper, we propose a novel scheduling methodology (combining reactive and proactive resource allocation strategies) specifically devised for URLLC services. Our ultimate objective is to characterize the level of proactivity required to cope with various scenarios. Specifically, we propose to operate at the scheduling level, addressing the trade-off between reliability, latency and resource efficiency. We offer an evaluation of the proposed methodology in the case of the well-known Hybrid Automatic Repeat reQuest (HARQ) protocol in which the proactive strategy allows a number of parallel retransmissions instead of the ‘'send-wait-react’' mode. To this end, we propose some deviations from the HARQ procedure and benchmark the performance in terms of latency, reliability outage and resource efficiency as a function of the level of proactivity. Afterwards, we highlight the critical importance of proactive adaptation in dynamic scenarios (i.e. with changing traffic rates and channel conditions).
+</span> </a> &nbsp; 
+        <a href="https://ieeexplore.ieee.org/abstract/document/9860872" class="label label-danger">Link</a> 
+  </div>
+</div>
+
+<hr />
+
+<div class="row">
+    <div class="paper-img">
+      <img src="/images/papers/v2n.png" class="thumbnail" width="200" height="200" />
+    </div>
+    <div class="paper-text">
+      <a href="https://ieeexplore.ieee.org/abstract/document/9861012"><b>[C] Evaluation of 5G-NR V2N Connectivity in a Centralized Cooperative Lane Change Scenario
+</b></a> <span style="font-size:16px;"><i></i></span><br /> 
+      <span style="font-size:15px;"><i><b> 5G-NR, Vehicular Networks, System level simulation.</b></i></span> <br /> 
+      <a class="label label-info"> Abstract <span class="abstract">By means of system-level simulations, we analyze in this paper the performance of Vehicle-to-Network (V2N) connectivity based on the 5th Generation - New Radio (5GNR) as a support to Cooperative, Connected and Automated Mobility (CCAM), in light of both network and Multi-access Edge Computing (MEC) deployments. Focusing on a canonical centralized Cooperative Lane Change (CLC) use case that involves three vehicles in a cross-border highway environment, we assess the link reliability and the End-to-End (E2E) latency of all the messages involved in the CLC negotiation phase (from/to interconnected MECs hosting the centralized maneuvering application), while assuming different deployment configurations and the coexistence with a second demanding vehicular service running over the same radio resources. On this occasion, we illustrate possible benefits from Bandwidth Partitioning (BWP) on Uplink (UL) latency, as well as from an hypothetically tight cooperation between Mobile Network Operators (MNOs) on reliability and continuity, leveraging low-latency inter-MEC transactions and seamless cross-border handover capabilities.
+</span> </a> &nbsp; 
+        <a href="https://ieeexplore.ieee.org/abstract/document/9861012" class="label label-danger">Link</a> 
+  </div>
+</div>
+
+<hr />
 
 <div class="row">
     <div class="paper-img">
