@@ -17,9 +17,7 @@ In 2023, I obtained my Ph.D degree at the <i> Université Grenoble Alpes (CEA-LE
 In 2016, I graduated from the <i> Ha Noi University of Science and Technology </i> (Vietnam) with a degree in <b> Electronics and Telecommunications Engineering. </b> 
 <!--My training mainly focused on several areas: <b> (1) Digital signal processing, (2) Mobile and wireless communications and (3) Embedded systems</b>.--> In the mean time, I took part in an <a href="http://www.upv.es/titulaciones/MUTSRC/indexi.html"> <i> international academic exchange program </i> </a> at the <i> Universidad Politecnica de Valencia (Spain) </i>, with the courses given in <b> Signal theory, Wireless transmissions and Optical networks. </b> <br>  <br>
 
-
-
-My research interests are <b> Network Optimizations</b>, <b> Decision Making systems using Deep Reinforcement Learning </b> and <b> Natural Language Processing processing with Deep Learning</b>. <br> <br>
+My research interests are <b> Network Optimizations</b>, <b> Decision Making systems using Deep Reinforcement Learning </b> and <b> Natural Language Processing (NLP) with Deep Learning</b>. <br> <br>
 <!-- Advanced communication protocols (wireless and data networks) based on (safe) -->
 In my spare time I am interested in table tennis, skiing and sightseeing.<br>
 
