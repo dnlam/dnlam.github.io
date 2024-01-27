@@ -19,8 +19,8 @@ In 2016, I graduated from the <i> Ha Noi University of Science and Technology </
 
 
 
-My research interests are <b> Network Optimizations</b>, <b> Advanced communication protocols (wireless and data networks) based on (safe) Reinforcement Learning </b> and <b> Image processing with Deep Learning</b>. <br> <br>
-
+My research interests are <b> Network Optimizations</b>, <b> Decision Making systems using Deep Reinforcement Learning </b> and <b> Natural Language Processing processing with Deep Learning</b>. <br> <br>
+<!-- Advanced communication protocols (wireless and data networks) based on (safe) -->
 In my spare time I am interested in table tennis, skiing and sightseeing.<br>
 
 </p>
