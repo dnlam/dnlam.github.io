@@ -10,7 +10,7 @@ permalink: /projects/
       <img src="/images/papers/p1.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href=""><b> [P] Method to exploit latency distribution forearly decision making, </b></a> <span style="font-size:16px;"><i>Patent 2103542, filled in March,2021 </i></span><br /> 
+      <a href=""><b> [P] Method to exploit latency distribution for early decision making, </b></a> <span style="font-size:16px;"><i>Patent 2103542, filled in March,2021 </i></span><br /> 
       <span style="font-size:15px;"><i><b> Early Decision Making.  </b></i></span> <br /> 
       <a class="label label-info"> Abstract <span class="abstract">The invention is concerned generally with wireless networks and in particular with a method and apparatus for orchestrating the execution of a plurality of mechanisms by one or more nodes in a wireless network.
 </span> </a> &nbsp; 
