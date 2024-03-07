@@ -3,6 +3,22 @@ layout: page
 title: Publications
 permalink: /projects/
 ---
+<h2 id="thesis">Thesis</h2>
+<hr />
+<div class="row">
+    <div class="paper-img">
+      <img src="/images/papers/5g_conni.jpg" class="thumbnail" width="200" height="200" />
+    </div>
+    <div class="paper-text">
+      <a href="https://theses.hal.science/tel-04141523"><b> [T] Centralised orchestration and hybrid resource management for Ultra Reliable and Low Latency Communications (URLLC)</b></a> <span style="font-size:16px;"><i></i></span><br /> 
+      <span style="font-size:15px;"><i><b>  5G systems, Hybrid resource management, Lyapunov Optimization, Multi-Agent Reinforcement Learning  </b></i></span> <br /> 
+      <a class="label label-info"> Abstract <span class="abstract">Relying on Lyapunov’s optimizations for two-queue state system management, we design an optimization framework in which RAN latency, reliability and resource efficiency are considered. Afterwards, we implement an OpenAirInterface (OAI) testbed for the validation of our algorithms. This implementation step is a proof of their feasibility under real time restrictions, and this step illustrates performance of our algorithms in experimentation. Finally, we propose a novel hybrid Grant-Based (GB) and Grant-Free (GF) radio access scheme using Multi Agent Reinforcement Learning (MARL) for URLLC.
+</span> </a> &nbsp; 
+        <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-danger">Blog</a>  -->
+        <a href="https://theses.hal.science/tel-04141523" class="label label-danger">Link</a>
+  </div>
+</div>
+
 <h2 id="patents">Patents</h2>
 <hr />
 <div class="row">
