@@ -53,7 +53,7 @@ permalink: /projects/
 <hr />
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/NS3AI_learning_1.png" class="thumbnail" width="200" height="200" />
+      <img src="/images/papers/NS3AI_learning_1.jpg" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
       <a href="https://arxiv.org/abs/2410.16846"><b> [J] Safe Load Balancing in Software-Defined-Networking</b></a> <span style="font-size:16px;"><i></i></span><br /> 
