@@ -1,0 +1,39 @@
+{% assign publications = site.publications | reverse %}
+
+{% if publications %}
+  <section class="bg-light page-section" id=publications>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">
+            <!--<span class="fa-stack fa-xs">
+              <i class="fas fa-circle fa-stack-2x"></i>
+              <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+              </span>-->
+              {{ site.data.sitetext.publications.title | default: "Publications"}}</h2>
+        </div>
+      </div>
+
+      {% assign inputs = 'paper,pdf,arxiv,poster,slides,short slides,long slides,video,code,manuscript' | split:"," %}
+      <div class="publications">
+        {% for publication in publications %}
+          <div class="item">
+            <div class="title">{{ publication.title }}</div>
+            <div class="author">{{ publication.authors }}</div>
+            <div class="confyear">
+              <span class="conference"> {{ publication.conference }}</span>, {{ publication.year }}
+            </div>
+            {% for item in publication %}
+              {% if inputs contains item %}
+                <a class="btn mt-3 mb-1 btn-sm" href={{ publication[item] | relative_url }} target="_blank" rel="noopener">
+                  {{ item | capitalize }}
+              </a>
+              {% endif %}
+            {% endfor %}
+          </div><!--//item-->
+        {% endfor %}
+      </div>
+    </div>
+  </section><!--//section-->
+{% endif %}
