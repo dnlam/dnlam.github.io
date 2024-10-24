@@ -12,8 +12,6 @@ Welcome to my personal website. In my spare time I am interested in table tennis
 </p>
 
 ---
-
----
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">Experience </h2>
 <p align="justify">
 Currently, I am holding a research engineer position in network optimazations at the <i> Huawei Paris Research Center (France)</i>. My main research focuses on safe data networks using <b>Learning-based models (DRL,LLMs, etc.)</b> and <b>Mathematical Optimization tools</b>. <br> <br>
