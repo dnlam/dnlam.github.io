@@ -53,6 +53,22 @@ permalink: /projects/
 <hr />
 <div class="row">
     <div class="paper-img">
+      <img src="/images/papers/NS3AI_learning_1.PNG" class="thumbnail" width="200" height="200" />
+    </div>
+    <div class="paper-text">
+      <a href="https://arxiv.org/abs/2410.16846"><b> [J] Safe Load Balancing in Software-Defined-Networking</b></a> <span style="font-size:16px;"><i></i></span><br /> 
+      <span style="font-size:15px;"><i><b> Traffic Engineering, Optimisation, Deep Reinforcement Learning, Heuristic, Transfer Learning, GPU acceleration. </b></i></span> <br /> 
+      <a class="label label-info"> Abstract <span class="abstract">High performance, reliability and safety are crucial properties of any Software-Defined-Networking (SDN) system. Although the use of Deep Reinforcement Learning (DRL) algorithms has been widely studied to improve performance, their practical applications are still limited as they fail to ensure safe operations in exploration and decision-making. To fill this gap, we explore the design of a Control Barrier Function (CBF) on top of Deep Reinforcement Learning (DRL) algorithms for load-balancing. We show that our DRL-CBF approach is capable of meeting safety requirements during training and testing while achieving near-optimal performance in testing. We provide results using two simulators: a flow-based simulator, which is used for proof-of-concept and benchmarking, and a packet-based simulator that implements real protocols and scheduling. Thanks to the flow-based simulator, we compared the performance against the optimal policy, solving a Non Linear Programming (NLP) problem with the SCIP solver. Furthermore, we showed that pre-trained models in the flow-based simulator, which is faster, can be transferred to the packet simulator, which is slower but more accurate, with some fine-tuning. Overall, the results suggest that near-optimal Quality-of-Service (QoS) performance in terms of end-to-end delay can be achieved while safety requirements related to link capacity constraints are guaranteed. In the packet-based simulator, we also show that our DRL-CBF algorithms outperform non-RL baseline algorithms. When the models are fine-tuned over a few episodes, we achieved smoother QoS and safety in training, and similar performance in testing compared to the case where models have been trained from scratch.
+</span> </a> &nbsp; 
+        <!-- <a href="https://www.photonics.com/Articles/CEA-Leti_Researchers_Set_Throughput_Record_for/a65854" class="label label-danger">Blog</a>  -->
+        <a href="https://arxiv.org/abs/2410.16846" class="label label-danger">Link</a>
+  </div>
+</div>
+
+<hr />
+
+<div class="row">
+    <div class="paper-img">
       <img src="/images/papers/5g_conni.jpg" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
