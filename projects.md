@@ -7,7 +7,7 @@ permalink: /projects/
 <hr />
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/5g_conni.jpg" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/5g_conni.jpg" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
       <a href="https://theses.hal.science/tel-04141523"><b> [T] Centralised orchestration and hybrid resource management for Ultra Reliable and Low Latency Communications (URLLC)</b></a> <span style="font-size:16px;"><i></i></span><br /> 
@@ -23,7 +23,7 @@ permalink: /projects/
 <hr />
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/p1.png" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/p1.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
       <a href=""><b> [P] Method to exploit latency distribution for early decision making, </b></a> <span style="font-size:16px;"><i>Patent 2103542, filled in March,2021 </i></span><br /> 
@@ -37,7 +37,7 @@ permalink: /projects/
 <hr />
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/p2.png" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/p2.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
       <a href=""><b> [P] Methods and apparatus for jitter-aware scheduling in wireless Time Sensitive Network communications, </b></a> <span style="font-size:16px;"><i>Patent 2103542, filled in May,2021 </i></span><br /> 
@@ -53,7 +53,7 @@ permalink: /projects/
 <hr />
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/NS3AI_learning_1.jpg" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/NS3AI_learning_1.jpg" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
       <a href="https://arxiv.org/abs/2410.16846"><b> [J] Safe Load Balancing in Software-Defined-Networking</b></a> <span style="font-size:16px;"><i></i></span><br /> 
@@ -69,7 +69,7 @@ permalink: /projects/
 
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/5g_conni.jpg" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/5g_conni.jpg" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
       <a href="https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-021-02067-2"><b> [J] Beyond Private 5G  Networks: Applications, Architectures, Operator Models and Technological Enablers</b></a> <span style="font-size:16px;"><i></i></span><br /> 
@@ -85,7 +85,7 @@ permalink: /projects/
 <hr />
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/drl_cbf.png" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/drl_cbf.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
       <a href="https://arxiv.org/abs/2401.05525"><b>[C] Towards Safe Load Balancing based on Control Barrier Functions and Deep Reinforcement Learning
@@ -101,7 +101,7 @@ permalink: /projects/
 
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/maddpg.png" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/maddpg.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
       <a href="https://ieeexplore.ieee.org/document/10188350"><b>[C] Hybrid Radio Resource Management Based on Multi-Agent Reinforcement Learning
@@ -116,7 +116,7 @@ permalink: /projects/
 <hr />
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/lyapunov.png" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/lyapunov.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
       <a href="https://ieeexplore.ieee.org/abstract/document/9977893"><b>[C] Dynamic Resource Scheduling Optimization for Ultra-Reliable Low Latency Communications: From Simulation to Experimentation
@@ -132,7 +132,7 @@ permalink: /projects/
 
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/lyapunov.png" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/lyapunov.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
       <a href="https://ieeexplore.ieee.org/abstract/document/9815615"><b>[C] Towards URLLC with Proactive HARQ Adaptation
@@ -148,7 +148,7 @@ permalink: /projects/
 
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/lyapunov.png" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/lyapunov.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
       <a href="https://ieeexplore.ieee.org/abstract/document/9860872"><b>[C] Proactive Resource Scheduling for 5G and Beyond Ultra-Reliable Low Latency Communications
@@ -164,7 +164,7 @@ permalink: /projects/
 
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/v2n.png" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/v2n.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
       <a href="https://ieeexplore.ieee.org/abstract/document/9861012"><b>[C] Evaluation of 5G-NR V2N Connectivity in a Centralized Cooperative Lane Change Scenario
@@ -180,7 +180,7 @@ permalink: /projects/
 
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/Lifi_Communication.jpg" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/Lifi_Communication.jpg" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
       <a href="https://www.owcconference.com/paper/reaching-7-7-gb-s-in-owc-with-dco-ofdm-on-a-single-blue-10-%C2%B5m-gan-micro-led/"><b>[C] Reaching 7.7 Gb/s in OWC with DCO-OFDM on a Single Blue 10-um GaN Micro-LED
@@ -202,7 +202,7 @@ permalink: /projects/
 <hr />
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/c1.png" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/c1.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
       <a href="https://nx23410.your-storageshare.de/s/NwA8yqQZ4F3nzee"><b>[C1] Intégrer La Propriété Industrielle Dans Son Activité Professionnelle
@@ -220,7 +220,7 @@ permalink: /projects/
 <hr />
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/f1.PNG" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/f1.PNG" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
       <a href="https://www.coursera.org/account/accomplishments/certificate/SXEAV9FX9Q7M"><b>[C2] Neural Networks and Deep Learning
@@ -237,7 +237,7 @@ permalink: /projects/
 
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/f2.png" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/f2.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
       <a href="https://www.coursera.org/account/accomplishments/certificate/PSBN4VY96XLD"><b>[C3] Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
@@ -254,7 +254,7 @@ permalink: /projects/
 
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/edx1.png" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/edx1.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
       <a href="https://courses.edx.org/certificates/e5391e79663840f2bb5dbb8865856109"><b>[C4] Machine Learning with Python - From Linear Models to Deep Learning
@@ -272,7 +272,7 @@ permalink: /projects/
 <hr />
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/rl1.png" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/rl1.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
       <a href="https://www.coursera.org/account/accomplishments/certificate/9NHWHJFTRZEZ"><b>[C5] Reinforcement Learning
@@ -290,7 +290,7 @@ permalink: /projects/
 
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/rl2.png" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/rl2.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
       <a href="https://www.coursera.org/account/accomplishments/certificate/EEEXTWABZ3QP"><b>[C6] Sample-based Learning Methods
@@ -307,7 +307,7 @@ permalink: /projects/
 
 <div class="row">
     <div class="paper-img">
-      <img src="/images/papers/rl3.png" class="thumbnail" width="200" height="200" />
+      <img src="/assets/img/papers/rl3.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
       <a href="https://www.coursera.org/account/accomplishments/certificate/MSLWZ9ZCWKF8"><b>[C7] Prediction and Control with Function Approximation
