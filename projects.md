@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Projects
 permalink: /projects/
 ---
 <h2 id="thesis">Thesis</h2>
