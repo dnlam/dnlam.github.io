@@ -90,7 +90,7 @@ paginate_path:         /:num/
 # ---------------------------------------------------------------------------------------
 
 # theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+# remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
@@ -281,8 +281,9 @@ hydejack:
     always:            false
 
     # Set to `true` to use the dark theme based on visitors' preference (OS setting).
-    dynamic:           true
-
+    dynamic:           true 
+    sunrise:           6
+    sunset:            19
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              true
 
