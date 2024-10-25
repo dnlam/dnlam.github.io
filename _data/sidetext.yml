@@ -1,0 +1,7 @@
+
+timeline:
+    title: "Experiences" 
+    section: timeline
+    # left is the default
+    #start_align: "left"
+    end: "<p>Download<br>My CV</p>"
