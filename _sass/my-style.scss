@@ -12,7 +12,14 @@
 //     margin: 1rem 0;
 //   }
 // }
+.rounded-circle {
+  border-radius: 50% !important;
+}
 
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
 /*------------ Styling for the about section ------------*/
 
 .profile {
