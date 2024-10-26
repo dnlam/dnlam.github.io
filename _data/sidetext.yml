@@ -1,6 +1,11 @@
 about:
     title: "About me"
     section: about
+    image: assets/img/lam2_3.bmp
+    text: 
+      "Hello."
+    position: Research Engineer
+    school: Orange Garden
 
 timeline:
     title: "Experience" 
