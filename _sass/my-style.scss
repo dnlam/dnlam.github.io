@@ -93,10 +93,10 @@
       height: 80px;
       margin-left: 0;
       text-align: center;
-      color: $white;
-      border: 6px solid $gray-200;
+      color: white; //$white;
+      border: 6px solid gray; //$gray-200;
       border-radius: 100%;
-      background-color: $gray-200;
+      background-color: gray; //$gray-200;
 
       &.end {
         background-color: $primary;
