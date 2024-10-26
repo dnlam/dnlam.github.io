@@ -7,11 +7,11 @@ about:
     position: Research Engineer
     school: Orange Garden
     news:
-      - text: "(October 2024) We published a paper entitled Safe Load Balancing in software-Defined-Networking at Comcom."
+      - text: "(October 2024) We published a paper entitled Safe Load Balancing in software-Defined-Networking at Computer Communications."
 
 timeline:
     title: "Experience" 
     section: timeline
     # left is the default
     #start_align: "left"
-    # end: "<p>Download<br>My CV</p>"
+    end: "<p>Download<br>My CV</p>"
