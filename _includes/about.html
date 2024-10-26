@@ -1,0 +1,25 @@
+{% assign about = site.data.hometext.about %}
+
+<section class="page-section" id="{{ about.section | default: " about" }}">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-8">
+                <div class="about">
+                    <h2 class="section-heading text-uppercase">{{ about.title }}</h1>
+                        {{ about.text | markdownify }}
+                        <p class="contact"><b>Contact:</b> {{ site.email }}</p>
+                </div>
+                <hr>
+                <div class="news">
+                    <h3>News</h3>
+                    <ul>
+                        {% for news in about.news %}
+                        <li>{{ news.text | markdownify }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
