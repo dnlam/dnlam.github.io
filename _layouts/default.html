@@ -54,3 +54,11 @@ layout: base
     </ul>
   {% endif %}
 </article>
+
+<script>
+  $(".timeline-text").each(function(i, obj) {
+    $(this).multiTextToggleCollapse({
+      line: 5
+    })
+  });
+</script>
