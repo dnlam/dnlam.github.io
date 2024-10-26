@@ -93,13 +93,13 @@
       height: 80px;
       margin-left: 0;
       text-align: center;
-      color: white; //$white;
+      color: rgb(238, 222, 222); //$white;
       border: 6px solid gray; //$gray-200;
       border-radius: 100%;
       background-color: gray; //$gray-200;
 
       &.end {
-        background-color: $primary;
+        background-color: rgb(160, 160, 189); //$primary;
 
         &:hover {
           transform: scale(1.1);
