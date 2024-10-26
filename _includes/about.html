@@ -1,0 +1,54 @@
+{% assign about = site.data.sitetext.about %}
+
+<section class="page-section" id="{{ about.section | default: "about" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-lg-4">
+        <div class="profile">
+          <img class="mx-auto rounded-circle" src={{ about.image }} alt="me">
+          <div class="portrait-title">
+            <h2 class="name">{{ site.author }}</h2>
+            <h3>{{ about.position }}</h3>
+            <h4>{{ about.school }}</h4>
+          </div>
+          <ul class="network-icon" aria-hidden="true">
+            <li>
+              <a href={{ site.googleS }} target="_blank" rel="noopener">
+                <i class="fas fa-graduation-cap big-icon"></i>
+              </a>
+            </li>
+            <li>
+              <a href={{ site.github }} target="_blank" rel="noopener">
+                <i class="fab fa-github big-icon"></i>
+              </a>
+            </li>
+            <li>
+              <a href={{ site.linkedin }} target="_blank" rel="noopener">
+                <i class="fab fa-linkedin big-icon"></i>
+              </a>
+            </li>
+
+          </ul>
+        </div>
+      </div>
+      <div class="col-12 col-lg-8">
+        <div class="about">
+          <h2 class="section-heading text-uppercase">{{ about.title }}</h1>
+          {{ about.text | markdownify }}
+          <p class="contact"><b>Contact:</b> {{ site.email }}</p>
+        </div>
+        <hr>
+        <div class="news">
+          <h3>News</h3>
+          <ul>
+          {% for news in about.news %}
+            <li>{{ news.text | markdownify }}</li>
+          {% endfor %}
+          </ul>
+        </div>
+        <!-- <i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="https://themes.gohugo.io//theme/academic/media/demo_resume.pdf" target="_blank">resumé</a>.</p>-->
+      </div>
+    </div>
+
+  </div>
+</section>
