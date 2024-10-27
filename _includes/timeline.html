@@ -43,6 +43,13 @@
             </div>
           </li>
           {% endfor %}
+          <!-- CV is appeared on top of experience -->
+          <li class="timeline-inverted">
+            <a class="timeline-image end" href="https://dnlam.github.io/CV/">
+              <h4>{{ site.data.hometext.timeline.end }}</h4>
+            </a>
+          </li>
+          <!-- Each event is on a row -->
 
           {%- assign event1 = site.experience reversed -%}
           <li class="timeline-inverted">
@@ -51,8 +58,8 @@
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
-                <h4>{{ event1.year }}</h4>
-                <h4 class="subheading">{{ event1.title }}</h4>
+                <h4>2016</h4>
+                <h4 class="subheading">AAAA</h4>
               </div>
             </div>
             <div class="timeline-text">
@@ -61,25 +68,21 @@
           </li>
 
 
-          <li class="timeline-inverted">
-            <a class="timeline-image end" href="https://dnlam.github.io/CV/">
-              <h4>{{ site.data.hometext.timeline.end }}</h4>
-            </a>
-          </li>
+          
 
-          <li class="timeline-inverted">
+          <!-- <li class="timeline-inverted">
             <a class="timeline-image end" href="https://dnlam.github.io/CV/">
               <h4>{{ site.data.hometext.timeline.end }}</h4>
             </a>
-          </li>
+          </li> -->
 
-          {% if site.data.hometext.timeline.end %}
+          <!-- {% if site.data.hometext.timeline.end %}
           <li class="timeline-inverted">
             <a class="timeline-image end" href="https://dnlam.github.io/CV/">
               <h4>{{ site.data.hometext.timeline.end }}</h4>
             </a>
           </li>
-          {% endif %}
+          {% endif %} -->
         </ul>
       </div>
     </div>
