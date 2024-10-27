@@ -205,7 +205,7 @@ permalink: /projects/
       <img src="/assets/img/papers/c1.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://nx23410.your-storageshare.de/s/NwA8yqQZ4F3nzee"><b>[C1] Intégrer La Propriété Industrielle Dans Son Activité Professionnelle
+      <a href="https://nx23410.your-storageshare.de/s/NwA8yqQZ4F3nzee"><b>[C] Intégrer La Propriété Industrielle Dans Son Activité Professionnelle
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
@@ -216,6 +216,26 @@ permalink: /projects/
 </div>
 
 <hr />
+
+<h2 id="conf">Generative AI </h2>
+<hr />
+<div class="row">
+    <div class="paper-img">
+      <img src="/assets/img/papers/c2.png" class="thumbnail" width="200" height="200" />
+    </div>
+    <div class="paper-text">
+      <a href="https://coursera.org/share/7f3095937df7b2e832eba693a0696c08"><b>[C] Generative AI with Large Language Models 
+</b></a> <span style="font-size:16px;"><i></i></span><br /> 
+      <span style="font-size:15px;"><i>
+</i></span> <br /> 
+      <a class="label label-info"> About  <span class="abstract">In this formation, we studied  LLM-based generative AI lifecycle, from data gathering and model selection, to performance evaluation and deployment.
+</span> </a> &nbsp; 
+        <a href="https://coursera.org/share/7f3095937df7b2e832eba693a0696c08" class="label label-success">Certificate</a> 
+  </div>
+</div>
+
+<hr />
+
 <h2 id="conf">Deep Learning</h2>
 <hr />
 <div class="row">
@@ -223,7 +243,7 @@ permalink: /projects/
       <img src="/assets/img/papers/f1.PNG" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://www.coursera.org/account/accomplishments/certificate/SXEAV9FX9Q7M"><b>[C2] Neural Networks and Deep Learning
+      <a href="https://www.coursera.org/account/accomplishments/certificate/SXEAV9FX9Q7M"><b>[C] Neural Networks and Deep Learning
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
@@ -240,7 +260,7 @@ permalink: /projects/
       <img src="/assets/img/papers/f2.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://www.coursera.org/account/accomplishments/certificate/PSBN4VY96XLD"><b>[C3] Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+      <a href="https://www.coursera.org/account/accomplishments/certificate/PSBN4VY96XLD"><b>[C] Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
@@ -257,7 +277,7 @@ permalink: /projects/
       <img src="/assets/img/papers/edx1.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://courses.edx.org/certificates/e5391e79663840f2bb5dbb8865856109"><b>[C4] Machine Learning with Python - From Linear Models to Deep Learning
+      <a href="https://courses.edx.org/certificates/e5391e79663840f2bb5dbb8865856109"><b>[C] Machine Learning with Python - From Linear Models to Deep Learning
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
@@ -275,7 +295,7 @@ permalink: /projects/
       <img src="/assets/img/papers/rl1.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://www.coursera.org/account/accomplishments/certificate/9NHWHJFTRZEZ"><b>[C5] Reinforcement Learning
+      <a href="https://www.coursera.org/account/accomplishments/certificate/9NHWHJFTRZEZ"><b>[C] Reinforcement Learning
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
@@ -293,7 +313,7 @@ permalink: /projects/
       <img src="/assets/img/papers/rl2.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://www.coursera.org/account/accomplishments/certificate/EEEXTWABZ3QP"><b>[C6] Sample-based Learning Methods
+      <a href="https://www.coursera.org/account/accomplishments/certificate/EEEXTWABZ3QP"><b>[C] Sample-based Learning Methods
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
@@ -310,7 +330,7 @@ permalink: /projects/
       <img src="/assets/img/papers/rl3.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">
-      <a href="https://www.coursera.org/account/accomplishments/certificate/MSLWZ9ZCWKF8"><b>[C7] Prediction and Control with Function Approximation
+      <a href="https://www.coursera.org/account/accomplishments/certificate/MSLWZ9ZCWKF8"><b>[C] Prediction and Control with Function Approximation
 </b></a> <span style="font-size:16px;"><i></i></span><br /> 
       <span style="font-size:15px;"><i>
 </i></span> <br /> 
