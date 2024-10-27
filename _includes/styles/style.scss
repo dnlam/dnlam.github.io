@@ -99,6 +99,7 @@
 
   @import "my-inline";
   @import "my-style";
+  @import "bootstrap";
 
   {% include styles/common.scss %}
 {% endunless %}
