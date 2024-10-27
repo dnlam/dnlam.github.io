@@ -10,7 +10,7 @@
     <div class="row">
       <div class="col-lg-12">
         <ul class="timeline">
-          {%- assign align = site.data.hometext.timeline.start_align -%}
+          <!-- {%- assign align = site.data.hometext.timeline.start_align -%}
           {%- for event in site.experience reversed -%}
           {%- if align == "right" -%}
           {%- if event.align and event.align == "left" -%}
@@ -42,7 +42,7 @@
               {{ event.content | markdownify }}
             </div>
           </li>
-          {% endfor %}
+          {% endfor %} -->
           <!-- CV is appeared on top of experience -->
           <li class="timeline-inverted">
             <a class="timeline-image end" href="https://dnlam.github.io/CV/">
@@ -51,7 +51,7 @@
           </li>
           <!-- Each event is on a row -->
 
-          {%- assign event1 = site._experience.7_orange -%}
+          {%- assign event1 = site.experience reversed -%}
           <li class="timeline-inverted">
             <div class="timeline-image">
               <img class="rounded-circle img-fluid" src="{{ event1.image }}" alt="{{ event1.alt | default: ""}}">
