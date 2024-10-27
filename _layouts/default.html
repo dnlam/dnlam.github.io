@@ -19,7 +19,7 @@ layout: base
 
 {% assign strings = site.data.strings %}
 
-<!-- <article class="page" role="article">
+<article class="page" role="article">
   <header>
     <h1 class="page-title">{{ page.title | default:strings.home | default:"Home" }}</h1>
     {% include components/message.html text=page.description hide=page.hide_description %}
@@ -38,7 +38,7 @@ layout: base
     </ul>
   {% endif %}
 
-  {% assign pages = site.html_pages | where:"layout","page" | where_exp:"page","page.sitemap != false" %}
+  <!-- {% assign pages = site.html_pages | where:"layout","page" | where_exp:"page","page.sitemap != false" %}
   {% if pages.size > 0 %}
     <h2 class="hr-bottom">{{ strings.pages | default:"Pages" }}</h2>
     <ul class="related-posts">
@@ -52,8 +52,8 @@ layout: base
         {% endif %}
       {% endfor %}
     </ul>
-  {% endif %}
-</article> -->
+  {% endif %} -->
+</article>
 
 <script>
   $(".timeline-text").each(function(i, obj) {
