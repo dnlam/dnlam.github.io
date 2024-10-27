@@ -51,7 +51,7 @@
           </li>
           <!-- Each event is on a row -->
 
-          {%- assign event1 = site.experience reversed -%}
+          {%- assign event1 = site.experience.7_orange -%}
           <li class="timeline-inverted">
             <div class="timeline-image">
               <img class="rounded-circle img-fluid" src="{{ event1.image }}" alt="{{ event1.alt | default: ""}}">
@@ -63,7 +63,7 @@
               </div>
             </div>
             <div class="timeline-text">
-              {{ event1.content }}
+              Hello
             </div>
           </li>
 
