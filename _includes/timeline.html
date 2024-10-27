@@ -45,9 +45,9 @@
           {% endfor %}
 
           {%- assign event1 = site.experience reversed -%}
-          <li>
+          <li class="timeline-inverted">
             <div class="timeline-image">
-              <img class="rounded-circle img-fluid" src="{{ event.image }}" alt="{{ event.alt | default: ""}}">
+              <img class="rounded-circle img-fluid" src="{{ event1.image }}" alt="{{ event1.alt | default: ""}}">
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
