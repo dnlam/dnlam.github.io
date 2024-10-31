@@ -221,7 +221,7 @@ ul.network-icon {
       margin-left: 0;
       text-align: center;
       color: rgb(205, 201, 228); //$white;
-      border: 11px solid rgb(65, 58, 58); //$gray-200;
+      border: 1px solid rgb(65, 58, 58); //$gray-200;
       border-radius: 100%;
       background-color: rgb(65, 58, 58); //$gray-200;
 
@@ -241,9 +241,9 @@ ul.network-icon {
       }
 
       p {
-        margin-top: 20px;
-        font-size: 20px;
-        line-height: 20px;
+        margin-top: 10px;
+        font-size: 10px;
+        line-height: 10px;
       }
     }
 
