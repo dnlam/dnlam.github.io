@@ -216,8 +216,8 @@ ul.network-icon {
       position: absolute;
       z-index: 100;
       left: 0;
-      width: 100px;
-      height: 100px;
+      width: 10px;
+      height: 10px;
       margin-left: 0;
       text-align: center;
       color: rgb(205, 201, 228); //$white;
@@ -435,7 +435,7 @@ ul.network-icon {
   }
 }
 
-/*------------ For Paper Section ------------------- */
+/*------------ Styling for section projects ------------------- */
 .label {
   padding: 3px !important;
   border-radius: 3px !important;
@@ -555,5 +555,3 @@ ul.network-icon {
   box-shadow: 0 4px 23px 5px rgba(0, 0, 0, 0.2), 0 2px 6px rgba(0, 0, 0, 0.15);
 }
 
-
-// Styling for the timeline section
