@@ -216,12 +216,12 @@ ul.network-icon {
       position: absolute;
       z-index: 100;
       left: 0;
-      width: 10px;
-      height: 10px;
+      width: 100px;
+      height: 100px;
       margin-left: 0;
       text-align: center;
       color: rgb(205, 201, 228); //$white;
-      border: 6px solid rgb(65, 58, 58); //$gray-200;
+      border: 66px solid rgb(65, 58, 58); //$gray-200;
       border-radius: 100%;
       background-color: rgb(65, 58, 58); //$gray-200;
 
@@ -242,7 +242,7 @@ ul.network-icon {
 
       p {
         margin-top: 15px;
-        font-size: 10px;
+        font-size: 50px;
         line-height: 20px;
       }
     }
