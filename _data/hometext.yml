@@ -1,17 +1,16 @@
 about:
-    title: "About me"
-    section: about
-    image: assets/img/lam2_3.bmp
-    text: 
-      "the site is under construction ... "
-    position: Research Engineer
-    school: Orange Garden
-    news:
-      - text: "(October 2024) We published a paper entitled Safe Load Balancing in software-Defined-Networking at Computer Communications."
+  title: "About me"
+  section: about
+  image: assets/img/lam2_3.bmp
+  text: "The site is under construction ... "
+  position: Research Engineer
+  school: Orange Garden
+  news:
+    - text: "(October 2024) We published a paper entitled Safe Load Balancing in software-Defined-Networking at Computer Communications."
 
 timeline:
-    title: "Experience" 
-    section: timeline
-    # left is the default
-    start_align: "left"
-    end: "<p>Checkout<br>My CV</p>"
+  title: "Experience"
+  section: timeline
+  # left is the default
+  start_align: "left"
+  end: "<p>Checkout<br>My CV</p>"
