@@ -39,7 +39,7 @@
 }
 
 .img-fluid {
-  max-width: 50%;
+  max-width: 80%;
   height: auto;
 }
 
@@ -212,7 +212,7 @@ ul.network-icon {
       margin-left: 0;
       text-align: center;
       color: rgb(205, 201, 228);
-      border: 6px solid grey;
+      border: 1px solid grey;
       border-radius: 100%;
       background-color: grey;
       &.end {
