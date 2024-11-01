@@ -13,7 +13,7 @@
   }
 }
 .rounded-circle {
-  border-radius: 50% !important;
+  border-radius: 100% !important;
 }
 
 .text-center {
@@ -39,7 +39,7 @@
 }
 
 .img-fluid {
-  max-width: 250%;
+  max-width: 100%;
   height: auto;
 }
 
@@ -207,8 +207,8 @@ ul.network-icon {
       position: absolute;
       z-index: 100;
       left: 0;
-      width: 80px;
-      height: 80px;
+      width: 100px;
+      height: 100px;
       margin-left: 0;
       text-align: center;
       color: rgb(205, 201, 228);
