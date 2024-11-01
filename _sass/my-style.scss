@@ -206,10 +206,10 @@ ul.network-icon {
     }
     .timeline-image {
       position: absolute;
-      z-index: 50;
+      z-index: -50;
       left: 0;
-      width: 80px;
-      height: 80px;
+      width: 100px;
+      height: 100px;
       margin-left: 0;
       text-align: center;
       color: rgb(205, 201, 228);
