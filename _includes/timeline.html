@@ -1,5 +1,4 @@
 <!-- About -->
-{%- assign event1 = site.experience reversed -%}
 <section class="page-section" id="{{ site.data.hometext.timeline.section | default: " about" }}">
   <div class="container">
     <div class="row">
@@ -52,7 +51,7 @@
           </li>
           <!-- Each event is on a row -->
 
-          
+          {%- assign event1 = site.experience reversed -%}
 
           <li class="timeline-inverted">
             <div class="timeline-image">
@@ -63,12 +62,28 @@
                 <h4>2016</h4>
                 <h4 class="subheading">AAAA s {{event1.year}} {{site.experience}}</h4>
               </div>
-            </div>
-            <div class="timeline-text">
+            </div> -->
+            <!-- <div class="timeline-text">
               Hello
             </div> -->
           </li>
 
+
+          
+
+          <!-- <li class="timeline-inverted">
+            <a class="timeline-image end" href="https://dnlam.github.io/CV/">
+              <h4>{{ site.data.hometext.timeline.end }}</h4>
+            </a>
+          </li> -->
+
+          <!-- {% if site.data.hometext.timeline.end %}
+          <li class="timeline-inverted">
+            <a class="timeline-image end" href="https://dnlam.github.io/CV/">
+              <h4>{{ site.data.hometext.timeline.end }}</h4>
+            </a>
+          </li>
+          {% endif %} -->
         </ul>
       </div>
     </div>
