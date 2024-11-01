@@ -234,20 +234,20 @@ ul.network-icon {
       }
     }
     &.timeline-inverted > .timeline-panel {
-      float: right;
-      padding: 0 20px 0 100px;
+      float: right; //right
+      padding: 0 20px 0 100px; //0 20px 0 100px
       text-align: left;
       &:before {
-        right: auto;
-        left: -15px;
-        border-right-width: 15px;
-        border-left-width: 0;
+        right: auto; //auto
+        left: -35px; //-15px
+        border-right-width: 35px; //15px
+        border-left-width: 0; //0
       }
       &:after {
-        right: auto;
-        left: -14px;
-        border-right-width: 14px;
-        border-left-width: 0;
+        right: auto; //auto
+        left: -24px; //-14px
+        border-right-width: 24px; //14px
+        border-left-width: 0; //0
       }
     }
     &:last-child {
