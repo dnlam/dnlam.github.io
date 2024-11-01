@@ -152,17 +152,17 @@ ul.network-icon {
   &:before {
     position: absolute;
     top: 0;
-    bottom: 10;
+    bottom: 0;
     left: 20px;
-    width: 2px; // width of the line in the timeline
+    width: 3px; // width of the line in the timeline
     margin-left: -1.5px;
     content: '';
     background-color: grey;
   }
   > li {
     position: relative;
-    min-height: 50px;
-    margin-bottom: 50px;
+    min-height: 60px;
+    margin-bottom: 60px;
     &:after,
     &:before {
       display: table;
