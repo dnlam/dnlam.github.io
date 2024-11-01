@@ -39,7 +39,7 @@
 }
 
 .img-fluid {
-  max-width: 150%;
+  max-width: 250%;
   height: auto;
 }
 
@@ -239,14 +239,14 @@ ul.network-icon {
       text-align: left;
       &:before {
         right: auto; //auto
-        left: -35px; //-15px
-        border-right-width: 35px; //15px
+        left: -55px; //-15px
+        border-right-width: 55px; //15px
         border-left-width: 0; //0
       }
       &:after {
         right: auto; //auto
-        left: -24px; //-14px
-        border-right-width: 24px; //14px
+        left: -54px; //-14px
+        border-right-width: 54px; //14px
         border-left-width: 0; //0
       }
     }
