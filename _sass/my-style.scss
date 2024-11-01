@@ -151,10 +151,10 @@ ul.network-icon {
   list-style: none;
   &:before {
     position: absolute;
-    top: 10;
+    top: 0;
     bottom: 0;
     left: 20px;
-    width: 15px; // width of the line in the timeline
+    width: 2px; // width of the line in the timeline
     margin-left: -1.5px;
     content: '';
     background-color: grey;
