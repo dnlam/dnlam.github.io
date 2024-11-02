@@ -1,17 +1,17 @@
 <!-- About -->
 {%- assign event1 = site.experience reversed -%}
-<section class="page-section" id="{{ site.data.hometext.timeline.section | default: " about" }}">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">{{ site.data.hometext.timeline.title | default: "Experience" }}</h2>
-        <!--<h3 class="section-subheading text-muted"> site.data.hometext.timeline.text | default: "timeline"</h3>-->
-      </div>
+<!-- <section class="page-section" id="{{ site.data.hometext.timeline.section | default: " about" }}"> -->
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12 text-center">
+      <h2 class="section-heading text-uppercase">{{ site.data.hometext.timeline.title | default: "Experience" }}</h2>
+      <!--<h3 class="section-subheading text-muted"> site.data.hometext.timeline.text | default: "timeline"</h3>-->
     </div>
-    <div class="row">
-      <div class="col-lg-12">
-        <ul class="timeline">
-          <!-- {%- assign align = site.data.hometext.timeline.start_align -%}
+  </div>
+  <div class="row">
+    <div class="col-lg-12">
+      <ul class="timeline">
+        <!-- {%- assign align = site.data.hometext.timeline.start_align -%}
           {%- for event in site.experience reversed -%}
           {%- if align == "right" -%}
           {%- if event.align and event.align == "left" -%}
@@ -44,50 +44,50 @@
             </div>
           </li>
           {% endfor %} -->
-          <!-- CV is appeared on top of experience -->
-          <li class="timeline-inverted">
-            <a class="timeline-image end" href="https://dnlam.github.io/CV/">
-              <h4>{{ site.data.hometext.timeline.end }}</h4>
-            </a>
-          </li>
-          <!-- Each event is on a row -->
+        <!-- CV is appeared on top of experience -->
+        <li class="timeline-inverted">
+          <a class="timeline-image end" href="https://dnlam.github.io/CV/">
+            <h4>{{ site.data.hometext.timeline.end }}</h4>
+          </a>
+        </li>
+        <!-- Each event is on a row -->
 
-          
 
-          <li class="timeline-inverted">
-            <div class="timeline-image">
-              <img class="rounded-circle img-fluid" src=assets\img\timeline\hust_20162.jpg alt="HUST">
+
+        <li class="timeline-inverted">
+          <div class="timeline-image">
+            <img class="rounded-circle img-fluid" src=assets\img\timeline\hust_20162.jpg alt="HUST">
+          </div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4>2016</h4>
+              <h4 class="subheading">AAAA s {{event1.year}} {{site.experience}}</h4>
             </div>
-            <div class="timeline-panel">
-              <div class="timeline-heading">
-                <h4>2016</h4>
-                <h4 class="subheading">AAAA s {{event1.year}} {{site.experience}}</h4>
-              </div>
-            </div>
-            <div class="timeline-text">
-              Hello
-            </div>
-          </li>
+          </div>
+          <div class="timeline-text">
+            Hello
+          </div>
+        </li>
 
 
-          
 
-          <!-- <li class="timeline-inverted">
+
+        <!-- <li class="timeline-inverted">
             <a class="timeline-image end" href="https://dnlam.github.io/CV/">
               <h4>{{ site.data.hometext.timeline.end }}</h4>
             </a>
           </li> -->
 
-          <!-- {% if site.data.hometext.timeline.end %}
+        <!-- {% if site.data.hometext.timeline.end %}
           <li class="timeline-inverted">
             <a class="timeline-image end" href="https://dnlam.github.io/CV/">
               <h4>{{ site.data.hometext.timeline.end }}</h4>
             </a>
           </li>
           {% endif %} -->
-        </ul>
-      </div>
+      </ul>
     </div>
   </div>
-</section>
+</div>
+<!-- </section> -->
 <!-- End About -->
