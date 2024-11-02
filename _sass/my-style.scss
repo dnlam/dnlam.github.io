@@ -286,7 +286,7 @@ ul.network-icon {
     }
     > li {
       min-height: 100px;
-      margin-bottom: 0px;
+      margin-bottom: 100px;
       .timeline-panel {
         float: left;
         width: 41%;
@@ -308,7 +308,7 @@ ul.network-icon {
       .timeline-image {
         left: 50%;
         width: 80px;
-        height: 100px;
+        height: 200px;
         margin-left: -50px;
         h4 {
           font-size: 13px;
