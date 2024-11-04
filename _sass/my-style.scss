@@ -16,19 +16,19 @@
 }
 
 .round-box {
-  width: 2500px;
-  height: 2500px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%; // imp to make the img rounded
   overflow: hidden; // also crop  the parts of the img element that go beyond the square 
   background-color: rgb(222, 222, 238);
 
   // margin-left: auto; //
-  // margin-top: -50px; //
+  margin-top: 50px; //
   // margin-right: auto; //
   // margin-bottom: 10px; //
 
   // display: inline-block;
-  // vertical-align: middle;
+  vertical-align: middle;
 }
 
 .round-box img{
