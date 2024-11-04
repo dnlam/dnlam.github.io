@@ -16,18 +16,17 @@
 }
 
 .round-box {
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
   border-radius: 50%;
   overflow: hidden;
   background-color: rgb(222, 222, 238);
-  /* commented for demo
-  float: left;
-  margin-left: 125px;
-  margin-top: 20px;
-  */
 
-  /*for demo*/
+  margin-left: 125px; //
+  margin-top: 50px; //
+  // margin-right: 20px; //
+  margin-bottom: 20px; //
+
   display: inline-block;
   vertical-align: middle;
 }
