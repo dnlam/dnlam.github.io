@@ -14,7 +14,12 @@
 }
 
 .rounded-circle {
-  border-radius: 50% !important;
+  border-radius: 70;
+}
+
+.img-fluid {
+  max-width: 50;
+  height: 50;
 }
 
 .text-center {
@@ -115,10 +120,7 @@
     padding-left: 15px
 }
 
-.img-fluid {
-  max-width: 50%;
-  height: 50%;
-}
+
 
 .row {
   // display: -ms-flexbox;
