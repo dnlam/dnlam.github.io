@@ -16,8 +16,8 @@
 }
 
 .round-box {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%; // imp to make the img rounded
   overflow: hidden; // also crop  the parts of the img element that go beyond the square 
   background-color: rgb(222, 222, 238);
@@ -32,8 +32,8 @@
 }
 
 .round-box img{
-  width: 90%;
-  height: 90%;
+  width: 100%;
+  height: auto;
 }
 
 // .circular--portrait {
