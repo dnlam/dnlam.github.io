@@ -3,11 +3,11 @@ about:
   section: about
   image: assets/img/lam2_3.bmp
   text:
-    Since 2024, I have carried out my research at <i> Orange Garden (France)</i>. The main goal is to leverage the advances of <b>Large Language Models (LLMs)</b> to automate/orchestrate end-to-end networks.
-    My Ph.D is performed under supervision of <a href="https://scholar.google.com/citations?user=bWndGhQAAAAJ&hl=en&authuser=1"><b> Dr. Emilio Calvanese Strinati</b> </a> 
-    and <a href="https://scholar.google.fr/citations?user=U1OzIisAAAAJ&hl=en"> <b> Mr. Mickael Mamän </b> </a>, 
+    Since 2024, I have carried out my research at <i> Orange Garden (France)</i>. The main goal is to leverage the advances of <b>Large Language Models (LLMs)</b> to automate network configuration.
+    My Ph.D is performed under supervision of <a href="https://scholar.google.com/citations?user=bWndGhQAAAAJ&hl=en&authuser=1"><b> Emilio Calvanese Strinati</b> </a> 
+    and <a href="https://scholar.google.fr/citations?user=U1OzIisAAAAJ&hl=en"> <b> Mickael Mamän </b> </a> at <i> CEA-Grenoble (France)</i>, 
     in which I jointly applied <b> AI/ML methods </b> and <b> advanced communication protocols </b> 
-    for Ultra-Reliable and Low-Latency Communications <b> (URLLC) </b> in 5G systems and beyond. <br>
+    for <b>Ultra-Reliable and Low-Latency Communications  (URLLC) </b> in 5G systems and beyond. <br>
     In my spare time, I am interested in practicing table tennis, skiing and football.
   position: Research Engineer
   school: Orange Garden
