@@ -305,12 +305,12 @@ ul.network-icon {
       margin-left: 0;
       text-align: center;
       color: rgb(192, 157, 157);
-      border: 6px solid $gray-200;
+      border: 6px solid gray;
       border-radius: 100%;
-      background-color: $gray-200;
+      background-color: gray;
 
       &.end {
-        background-color: $primary;
+        background-color: white;
 
         &:hover {
           transform: scale(1.1);
