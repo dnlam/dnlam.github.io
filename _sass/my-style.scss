@@ -307,10 +307,10 @@ ul.network-icon {
       color: rgb(206, 188, 188);
       border: 0.1px solid rgb(222, 208, 208);
       border-radius: 100%;
-      background-color: rgb(181, 169, 169);
+      background-color: rgb(91, 78, 78);
 
       &.end {
-        background-color: white;
+        background-color: rgb(85, 78, 78);
 
         &:hover {
           transform: scale(1.1);
@@ -348,6 +348,24 @@ ul.network-icon {
         left: -14px;
         border-right-width: 14px;
         border-left-width: 0;
+      }
+    }
+
+    .timeline-heading {
+      h4 {
+        line-height: 30px;
+        margin-top: 20px;
+        color: inherit;
+        &.subheading {
+          text-transform: none;
+          margin-top: 0px;
+        }
+      }
+    }
+    .timeline-body {
+       > ul,
+      > p {
+        margin-bottom: 0;
       }
     }
   }
