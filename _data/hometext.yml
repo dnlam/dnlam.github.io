@@ -19,5 +19,5 @@ timeline:
   title: "Experience"
   section: timeline
   # left is the default
-  start_align: "left"
+  start_align: "right"
   end: "<p>Checkout<br>My CV</p>"
