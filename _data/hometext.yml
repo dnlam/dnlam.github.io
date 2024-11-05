@@ -7,14 +7,14 @@ about:
     My Ph.D is performed under supervision of <a href="https://scholar.google.com/citations?user=bWndGhQAAAAJ&hl=en&authuser=1"><b> Dr. Emilio Calvanese Strinati</b> </a> 
     and <a href="https://scholar.google.fr/citations?user=U1OzIisAAAAJ&hl=en"> <b> Mr. Mickael Mamän </b> </a>, 
     in which I jointly applied <b> AI/ML methods </b> and <b> advanced communication protocols </b> 
-    for Ultra-Reliable and Low-Latency Communications <b> (URLLC) </b> in 5G systems and beyond.
-    In my spare time I am interested in practicing table tennis, skiing and football.
+    for Ultra-Reliable and Low-Latency Communications <b> (URLLC) </b> in 5G systems and beyond. <br>
+    In my spare time, I am interested in practicing table tennis, skiing and football.
   position: Research Engineer
   school: Orange Garden
   news:
-    - text: (October 2024) We published at <a href="https://www.sciencedirect.com/science/article/pii/S0140366424003323">Computer Communications</a>, a paper entitled <strong> "Safe Load Balancing in software-Defined-Networking" </strong>.
-    - text: (June 2024) We talked at <a href="https://algotelcores2024.sciencesconf.org/">Algotel/Cores conference</a>, a paper entitled <strong> "Load Balancing with Safe Reinforcement Learning" </strong>.
-    - text: (June 2024) We talked at <a href="https://noms2024.ieee-noms.org/"> IEEE NOMS conference</a>, a paper entitled <strong> "Towards Safe Load Balancing based on Control Barrier Functions and Deep Reinforcement Learning" </strong>.
+    - text: (October 2024) We published at <a href="https://www.sciencedirect.com/science/article/pii/S0140366424003323">Computer Communications</a>, a paper entitled <a href="https://www.sciencedirect.com/science/article/pii/S0140366424003323"><strong> "Safe Load Balancing in Software-Defined-Networking" </strong>. </a>
+    - text: (June 2024) We talked at <a href="https://algotelcores2024.sciencesconf.org/">Algotel/Cores conference</a>, a paper entitled <a href="https://hal.science/hal-04563967"><strong> "Load Balancing with Safe Reinforcement Learning" </strong>.</a>
+    - text: (June 2024) We talked at <a href="https://noms2024.ieee-noms.org/"> IEEE NOMS conference</a>, a paper entitled <a href="https://ieeexplore.ieee.org/document/10575399"><strong> "Towards Safe Load Balancing based on Control Barrier Functions and Deep Reinforcement Learning" </strong>.</a>
 timeline:
   title: "Experience"
   section: timeline
