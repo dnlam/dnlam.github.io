@@ -239,7 +239,7 @@ ul.network-icon {
       width: 100%;
       padding: 0 20px 0 100px;
       text-align: left;
-      font-size: 20px;
+      font-size: 15px;
       font-family: math;
       // font-style: oblique;
     }
@@ -342,7 +342,7 @@ ul.network-icon {
         padding: 0 20px 0 20px;
         text-align: left;
         line-height: 1.75;
-        font-size: 20px;
+        font-size: 17px;
         font-family: math;
         word-break: normal;
 
@@ -372,13 +372,13 @@ ul.network-icon {
       &.timeline-inverted>.timeline-panel {
         float: left;
         padding: 0 30px 20px 20px;
-        text-align: left;
+        text-align: right;
       }
 
       &.timeline-inverted>.timeline-text {
         float: right;
         padding: 0 20px 0 30px;
-        text-align: right;
+        text-align: left;
       }
     }
   }
