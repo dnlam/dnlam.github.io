@@ -13,8 +13,8 @@ about:
   school: Orange Garden
   news:
     - text: <a href="" class="box-news box-news-date">10/2024</a>  We published at <a href="https://www.sciencedirect.com/science/article/pii/S0140366424003323">Computer Communications</a>, a paper entitled <a href="https://www.sciencedirect.com/science/article/pii/S0140366424003323"><strong> "Safe Load Balancing in Software-Defined-Networking" </strong>. </a>
-    - text: <a href="" class="box-news box-news-date">6/2024</a> We talked at <a href="https://algotelcores2024.sciencesconf.org/">Algotel/Cores conference</a>, a paper entitled <a href="https://hal.science/hal-04563967"><strong> "Load Balancing with Safe Reinforcement Learning" </strong>.</a>
-    - text: <a href="" class="box-news box-news-date">6/2024</a> We talked at <a href="https://noms2024.ieee-noms.org/"> IEEE NOMS conference</a>, a paper entitled <a href="https://ieeexplore.ieee.org/document/10575399"><strong> "Towards Safe Load Balancing based on Control Barrier Functions and Deep Reinforcement Learning" </strong>.</a>
+    - text: <a href="" class="box-news box-news-date">06/2024</a> We talked at <a href="https://algotelcores2024.sciencesconf.org/">Algotel/Cores conference</a>, a paper entitled <a href="https://hal.science/hal-04563967"><strong> "Load Balancing with Safe Reinforcement Learning" </strong>.</a>
+    - text: <a href="" class="box-news box-news-date">06/2024</a> We talked at <a href="https://noms2024.ieee-noms.org/"> IEEE NOMS conference</a>, a paper entitled <a href="https://ieeexplore.ieee.org/document/10575399"><strong> "Towards Safe Load Balancing based on Control Barrier Functions and Deep Reinforcement Learning" </strong>.</a>
 timeline:
   title: "Experience"
   section: timeline
