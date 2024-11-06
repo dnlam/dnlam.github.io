@@ -21,8 +21,8 @@
   padding: 2px !important;
   border-radius: 5px !important;
   font-size: 16px !important;
-  width: 15px;
-  height: 10px;
+  // width: 15px;
+  // height: 10px;
 }
 
 .box-news-date {
@@ -334,7 +334,7 @@ ul.network-icon {
         padding: 0 20px 0 20px;
         text-align: left;
         line-height: 1.75;
-        font-size: 20px;
+        font-size: 10px;
         word-break: normal;
 
         p {
@@ -361,13 +361,13 @@ ul.network-icon {
       }
 
       &.timeline-inverted>.timeline-panel {
-        float: right;
+        float: left;
         padding: 0 30px 20px 20px;
         text-align: left;
       }
 
       &.timeline-inverted>.timeline-text {
-        float: left;
+        float: right;
         padding: 0 20px 0 30px;
         text-align: right;
       }
