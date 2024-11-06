@@ -14,7 +14,7 @@
                     <h3>News</h3>
                     <ul>
                         {% for news in about.news %}
-                        <li><p class="align-justify">{{ news.text | markdownify }}</p></li>
+                        <li>{{ news.text | markdownify }}</li>
                         {% endfor %}
                     </ul>
                 </div>
