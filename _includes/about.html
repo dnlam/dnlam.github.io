@@ -7,14 +7,14 @@
                 <div class="about">
                     <h2 class="text-uppercase text-center align-justify">{{ about.title }}</h1>
                         {{ about.text | markdownify }}
-                        <p class="Contact me"><b>Contact:</b> nlam [dot] dinh [at] gmail [dot] com</p>
+                        <p class="contact"><b>Contact me:</b> nlam [dot] dinh [at] gmail [dot] com</p>
                 </div>
                 <hr>
                 <div class="news">
                     <h3>News</h3>
                     <ul>
                         {% for news in about.news %}
-                        <li>{{ news.text | markdownify }}</li>
+                        <li><p class="align-justify">{{ news.text | markdownify }}</p></li>
                         {% endfor %}
                     </ul>
                 </div>
