@@ -3,17 +3,17 @@ about:
   section: about
   image: assets/img/lam2_3.bmp
   text:
-    Since 2024, I have carried out my research at <i> Orange Garden (France)</i>. The main goal is to leverage the advances of <b>Large Language Models (LLMs)</b> to automate network configuration.
-    My Ph.D is performed under supervision of <a href="https://scholar.google.com/citations?user=bWndGhQAAAAJ&hl=en&authuser=1"><b> Emilio Calvanese Strinati</b> </a> 
-    and <a href="https://scholar.google.fr/citations?user=U1OzIisAAAAJ&hl=en"> <b> Mickael Mamän </b> </a> at <i> CEA-Grenoble (France)</i>, 
+    Since 2024, I have carried out my research at <i> Orange Garden (France)</i>. The main goal is to leverage the advances of <b>Large Language Models (LLMs)</b> to automate network management and configuration.
+    Prior to my arrival at Orange, I gained valuable experience at <i> Huawei Technologies France</i> in <b> Traffic Engineering and Optimization</b> for networking. My Ph.D. thesis is performed under supervision of <a href="https://scholar.google.com/citations?user=bWndGhQAAAAJ&hl=en&authuser=1"><b>Dr. Emilio Calvanese Strinati</b> </a> 
+    and <a href="https://scholar.google.fr/citations?user=U1OzIisAAAAJ&hl=en"> <b>Mr. Mickael Mamän </b> </a> at <i> CEA-Grenoble (France)</i>, 
     in which I jointly applied <b> AI/ML methods </b> and <b> advanced communication protocols </b> 
-    for <b>Ultra-Reliable and Low-Latency Communications  (URLLC) </b> in 5G systems and beyond. <br>
+    for <b>5G Ultra-Reliable and Low-Latency Communications  (URLLC) </b>. <br>
     In my spare time, I am interested in practicing table tennis, skiing and football.
   position: Research Engineer
   school: Orange Garden
   news:
     - text: <p class="align-justify"><a href="" class="box-news box-news-date">10/2024</a>  We published at <a href="https://www.sciencedirect.com/science/article/pii/S0140366424003323">Computer Communications</a>, a paper entitled <a href="https://www.sciencedirect.com/science/article/pii/S0140366424003323"><strong> "Safe Load Balancing in Software-Defined-Networking" </strong>. </a> </p>
-    - text: <p class="align-justify"><a href="" class="box-news box-news-date">06/2024</a> We talked at <a href="https://algotelcores2024.sciencesconf.org/">Algotel/Cores conference</a>, a paper entitled <a href="https://hal.science/hal-04563967"><strong> "Load Balancing with Safe Reinforcement Learning" </strong>.</a></p>
+    - text: <a href="" class="box-news box-news-date">06/2024</a> <p class="align-justify"> We talked at <a href="https://algotelcores2024.sciencesconf.org/">Algotel/Cores conference</a>, a paper entitled <a href="https://hal.science/hal-04563967"><strong> "Load Balancing with Safe Reinforcement Learning" </strong>.</a></p>
     - text: <p class="align-justify"><a href="" class="box-news box-news-date">06/2024</a> We talked at <a href="https://noms2024.ieee-noms.org/"> IEEE NOMS conference</a>, a paper entitled <a href="https://ieeexplore.ieee.org/document/10575399"><strong> "Towards Safe Load Balancing based on Control Barrier Functions and Deep Reinforcement Learning" </strong>.</a></p>
 timeline:
   title: "Experience"
