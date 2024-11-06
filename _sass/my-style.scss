@@ -231,8 +231,9 @@ ul.network-icon {
       float: right;
       width: 100%;
       padding: 0 20px 0 100px;
-      text-align: left;
-      font-size: 15px;
+      text-align: right;
+      font-size: 20px;
+      font-family: math;
       // font-style: oblique;
     }
     .timeline-image {
@@ -332,9 +333,10 @@ ul.network-icon {
         width: 41%;
         float: right;
         padding: 0 20px 0 20px;
-        text-align: left;
+        text-align: right;
         line-height: 1.75;
-        font-size: 15px;
+        font-size: 20px;
+        font-family: math;
         word-break: normal;
 
         p {
