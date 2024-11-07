@@ -71,7 +71,7 @@ It is assumed that the reader has a basic working knowledge of {{< latex >}} @mi
 # The Design, Intent, and Limitations of this Templates
 
 The `quarto-ieee` template is intended to **approximate the final look and page length of the articles/papers** either in PDF output or HTML output. 
-**They are NOT intended to be the final produced work that is displayed in print or on IEEEXplore^®^**.
+**They are NOT intended to be the final produced work that is displayed in print or on IEEEXplore^^**.
 They will help to give the authors an approximation of the number of pages and layout that will be in the final version. 
 
 ## Unsuported feature and limitations
@@ -86,10 +86,10 @@ It can be can reported the following limitations of the  `quarto-ieee` template:
   - `quarto-ieee` use a hack to handle the `longtable` issue with  2-column {{< latex >}} documents[^issues-1023].
     But, in some cases, a page overflow may occur (see also @sec-tables).
 - For `HTML` output
-  - The default Quarto toc is used, so the table of contents (toc) display is not the same as on [IEEEXplore<sup>®</sup>].
-  - Footnote are put at the end of document, while on [IEEEXplore<sup>®</sup>] there are placed in the accordion.
+  - The default Quarto toc is used, so the table of contents (toc) display is not the same as on [IEEEXplore<sup></sup>].
+  - Footnote are put at the end of document, while on [IEEEXplore<sup></sup>] there are placed in the accordion.
   - Figures are not placed in the accordion.
-  - [IEEEXplore<sup>®</sup>] specifics (e.g. citation metrics, etc.)
+  - [IEEEXplore<sup></sup>] specifics (e.g. citation metrics, etc.)
   - The `HTML` output is a  Quarto citeable article @quarto-citation, so a citation appendix is automatically added to the article end.
   
 
@@ -320,4 +320,4 @@ Use `[]{.appendix options="An Appendix"}` markup if you have a single appendix.
 
 [^issues-2275]: See the issue here <https://github.com/quarto-dev/quarto-cli/issues/2275>
 
-[IEEEXplore<sup>®</sup>]: <https://ieeexplore.ieee.org/>
+[IEEEXplore<sup></sup>]: <https://ieeexplore.ieee.org/>
