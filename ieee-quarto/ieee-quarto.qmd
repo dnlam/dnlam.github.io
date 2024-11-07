@@ -144,9 +144,9 @@ To write equations use `$` delimiters for inline formula or `$$` for block one.
 To number the equations, it is recommended to use classic equation environments 
 provided by {{< latex >}} and to use `\eqref{}` (or `\ref{}`) for cross-referencing.
 For example:
-\begin{equation}\label{eq:1}
+<!-- \begin{equation}\label{eq:1}
 {{\chi}_a}=\text{diag}\left(\frac{{\chi}}{1+n_a{\chi}},\frac{{\chi}}{1+n_b{\chi}},\frac{{\chi}}{1+n_b{\chi}}\right),
-\end{equation}
+\end{equation} -->
 \begin{align}
 a & = b + c \label{eq:2} \\
 c & = d + e \label{eq:3}
