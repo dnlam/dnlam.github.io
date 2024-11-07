@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 
 # Happy Jekylling!
-gem "jekyll", "~> 4.3"
+gem "jekyll", "~> 4.2"
 
 # If you're using the MathJax math engine instead, free to remove the line below:
 gem "kramdown-math-katex"
