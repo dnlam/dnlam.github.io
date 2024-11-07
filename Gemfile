@@ -18,7 +18,12 @@ gem "kramdown-math-katex"
 gem "duktape"
 
 # Fixes `jekyll serve` in ruby 3
-gem "webrick"
+gem "webrick" , "~> 1.8.2"
+
+
+gem "rexml", ">= 3.3.9"
+
+
 
 group :jekyll_plugins do
   gem "github-pages"
