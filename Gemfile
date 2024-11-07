@@ -23,6 +23,7 @@ gem "webrick" , "~> 1.8.2"
 
 gem "rexml", ">= 3.3.9"
 
+gem 'faraday', '~> 2.7', '>= 2.7.11'
 
 
 group :jekyll_plugins do
