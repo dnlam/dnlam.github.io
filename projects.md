@@ -85,6 +85,37 @@ permalink: /projects/
 <hr />
 <div class="row">
     <div class="paper-img">
+      <img src="/assets/img/papers/E2E_intent_management.png" class="thumbnail" width="200" height="200" />
+    </div>
+    <div class="paper-text">
+      <a href="https://arxiv.org/abs/2504.13589"><b>[C] Towards End-to-End Network Intent Management with Large Language Models
+</b></a> <span style="font-size:16px;"><i></i></span><br /> 
+      <span style="font-size:15px;"><i><b> Network optimization, CUDA-enabled acceleration, Safety, Deep Reinforcement Learning (DRL), Control Barrier Function (CBF).</b></i></span> <br /> 
+      <a class="label label-info"> Abstract <span class="abstract">Large Language Models (LLMs) are likely to play a key role in Intent-Based Networking (IBN) as they show remarkable performance in interpreting human language as well as code generation, enabling the translation of high-level intents expressed by humans into low-level network configurations. In this paper, we leverage closed-source language models (i.e., Google Gemini 1.5 pro, ChatGPT-4) and open-source models (i.e., LLama, Mistral) to investigate their capacity to generate E2E network configurations for radio access networks (RANs) and core networks in 5G/6G mobile networks. We introduce a novel performance metrics, known as FEACI, to quantitatively assess the format (F), explainability (E), accuracy (A), cost (C), and inference time (I) of the generated answer; existing general metrics are unable to capture these features. The results of our study demonstrate that open-source models can achieve comparable or even superior translation performance compared with the closed-source models requiring costly hardware setup and not accessible to all users.  
+</span> </a> &nbsp; 
+        <a href="https://arxiv.org/abs/2504.13589" class="label label-danger">Link</a> 
+  </div>
+</div>
+
+<hr />
+<div class="row">
+    <div class="paper-img">
+      <img src="/assets/img/papers/SDWAN.png" class="thumbnail" width="200" height="200" />
+    </div>
+    <div class="paper-text">
+      <a href="https://hal.science/hal-04563967/"><b>[C] Load Balancing with Safe Reinforcement Learning
+</b></a> <span style="font-size:16px;"><i></i></span><br /> 
+      <span style="font-size:15px;"><i><b> Network optimization, CUDA-enabled acceleration, Safety, Deep Reinforcement Learning (DRL), Control Barrier Function (CBF).</b></i></span> <br /> 
+      <a class="label label-info"> Abstract <span class="abstract">Deep Reinforcement Learning (DRL) algorithms have recently made significant strides in improving network performance. Nonetheless, their practical use is still limited in the absence of safe exploration and safe decision-making. In the context of commercial solutions, reliable and safe-to-operate systems are of paramount importance. Taking this problem into account, we propose a safe learning-based load balancing algorithm for Software Defined-Wide Area Network (SD-WAN), which is empowered by Deep Reinforcement Learning (DRL) combined with a Control Barrier Function (CBF). It safely projects unsafe actions into feasible ones during both training and testing, and it guides learning towards safe policies. We successfully implemented the solution on GPU to accelerate training by approximately 110x times and achieve model updates for on-policy methods within a few seconds, making the solution practical. We show that our approach delivers near-optimal Quality-of-Service (QoS performance in terms of end-to-end delay while respecting safety requirements related to link capacity constraints. 
+</span> </a> &nbsp; 
+        <a href="https://hal.science/hal-04563967/" class="label label-danger">Link</a> 
+  </div>
+</div>
+
+<hr />
+
+<div class="row">
+    <div class="paper-img">
       <img src="/assets/img/papers/drl_cbf.png" class="thumbnail" width="200" height="200" />
     </div>
     <div class="paper-text">

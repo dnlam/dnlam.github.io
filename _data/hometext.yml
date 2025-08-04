@@ -3,18 +3,20 @@ about:
   section: about
   image: assets/img/lam2_3.bmp
   text:
-    Since 2024, I have carried out my research at <i> Orange Garden (France)</i>. The main goal is to leverage the advances of <b>Large Language Models (LLMs)</b> to automate network management and configuration.
-    Prior to my arrival at Orange, I gained valuable experience at <i> Huawei Technologies France</i> in <b> Traffic Engineering and Optimization</b> for networking. My Ph.D. thesis is performed under supervision of <a href="https://scholar.google.com/citations?user=bWndGhQAAAAJ&hl=en&authuser=1"><b>Dr. Emilio Calvanese Strinati</b> </a> 
+    Since 2025, I have held the position of Senior Research Specialist at <i>Nokia Standards (France)</i>. My research focuses on  <b>Generative AI</b> and Simulation Assistant for 3GPP standardisation.
+    Prior to my arrival at Nokia, I carried out my research at <i> Orange Garden (France)</i>. The main goal is to leverage the advances of <b>Large Language Models (LLMs)</b> to automate network management and configuration.
+    In 2022, I joined <i> Huawei Technologies France</i> as a researcher in <b> Traffic Engineering and Optimization</b> team. My Ph.D. thesis is performed under supervision of <a href="https://scholar.google.com/citations?user=bWndGhQAAAAJ&hl=en&authuser=1"><b>Dr. Emilio Calvanese Strinati</b> </a> 
     and <a href="https://scholar.google.fr/citations?user=U1OzIisAAAAJ&hl=en"> <b>Mr. Mickael Mamän </b> </a> at <i> CEA-Grenoble (France)</i>, 
     in which I jointly applied <b> AI/ML methods </b> and <b> advanced communication protocols </b> 
     for <b>5G Ultra-Reliable and Low-Latency Communications  (URLLC) </b>. <br>
-    In my spare time, I am interested in practicing table tennis, skiing and football.
-  position: Research Engineer
-  school: Orange Garden
+    In my spare time, I am an avid sports enthusiast, with a particular interest in table tennis, skiing and football.
+  position: Senior Research Specialist
+  school: Nokia Standards
   news:
+    - text: <p class="align-justify"><a href="" class="box-news box-news-date">05/2025</a> We presented our research at <a href="https://networking.ifip.org/2025/"> IFIP Networking conference</a>, a paper entitled <a href="https://arxiv.org/abs/2504.13589"><strong> "Towards End-to-End Network Intent Management with Large Language Models" </strong>.</a></p>
     - text: <p class="align-justify"><a href="" class="box-news box-news-date">10/2024</a>  We published at <a href="https://www.sciencedirect.com/science/article/pii/S0140366424003323">Computer Communications</a>, a paper entitled <a href="https://www.sciencedirect.com/science/article/pii/S0140366424003323"><strong> "Safe Load Balancing in Software-Defined-Networking" </strong>. </a> </p>
     - text: <p class="align-justify"><a href="" class="box-news box-news-date">06/2024</a>  We talked at <a href="https://algotelcores2024.sciencesconf.org/">Algotel/Cores conference</a>, a paper entitled <a href="https://hal.science/hal-04563967"><strong> "Load Balancing with Safe Reinforcement Learning" </strong>.</a></p>
-    - text: <p class="align-justify"><a href="" class="box-news box-news-date">06/2024</a> We talked at <a href="https://noms2024.ieee-noms.org/"> IEEE NOMS conference</a>, a paper entitled <a href="https://ieeexplore.ieee.org/document/10575399"><strong> "Towards Safe Load Balancing based on Control Barrier Functions and Deep Reinforcement Learning" </strong>.</a></p>
+    # - text: <p class="align-justify"><a href="" class="box-news box-news-date">06/2024</a> We talked at <a href="https://noms2024.ieee-noms.org/"> IEEE NOMS conference</a>, a paper entitled <a href="https://ieeexplore.ieee.org/document/10575399"><strong> "Towards Safe Load Balancing based on Control Barrier Functions and Deep Reinforcement Learning" </strong>.</a></p>
 timeline:
   title: "Experience"
   section: timeline
