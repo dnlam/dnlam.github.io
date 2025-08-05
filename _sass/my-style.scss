@@ -300,12 +300,12 @@ ul.network-icon {
 
     .timeline-heading {
       h4 {
-        line-height: 30px;
+        line-height: 40px;
         margin-top: 10px;
         color: inherit;
         &.subheading {
           text-transform: none;
-          margin-top: 0px;
+          margin-top: 10px 0 20px 0; // top right bottom left
         }
       }
     }
