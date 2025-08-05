@@ -3,13 +3,13 @@ about:
   section: about
   image: assets/img/lam2_3.bmp
   text:
-    Since 2025, I have held the position of Senior Research Specialist at <i>Nokia Standards (France)</i>. My research focuses on  <b>Generative AI</b> and Simulation Assistant for 3GPP standardisation.
-    Prior to my arrival at Nokia, I carried out my research at <i> Orange Garden (France)</i>. The main goal is to leverage the advances of <b>Large Language Models (LLMs)</b> to automate network management and configuration.
-    In 2022, I joined <i> Huawei Technologies France</i> as a researcher in <b> Traffic Engineering and Optimization</b> team. Within this team, I extended my studies toward QoS optimization and network safety in Software-Defined-Networking (SDN).
+    Since 2025, I have held the position of Senior Research Specialist at <i>Nokia Standards (France)</i>. My research focuses on  <b>Generative AI</b> and <b>Simulation Assistant</b> for <b>3GPP standardisation</b>.
+    Prior to my arrival at Nokia, I carried out my research at <i> Orange Garden (France)</i>. The main goal is to leverage the advances of <b>Large Language Models (LLMs)</b> for <b>autonomous networks</b> and <b>network intent management</b>.
+    In 2022, I joined <i> Huawei Technologies France</i> as a researcher in <b> Traffic Engineering and Optimization</b> team. Within this team, I extended my studies toward <b>QoS optimization</b> and <b>network safety</b> in <b>Software-Defined-Networking (SDN)</b>.
     I also obtained my Ph.D. degree in Mathematics and Telecommunications in 2022 under supervision of <a href="https://scholar.google.com/citations?user=bWndGhQAAAAJ&hl=en&authuser=1"><b>Dr. Emilio Calvanese Strinati</b> </a>
     and <a href="https://scholar.google.fr/citations?user=U1OzIisAAAAJ&hl=en"> <b>Mr. Mickael Mamän </b> </a> at <i> CEA-Grenoble (France)</i>. In my thesis, I jointly applied <b> AI/ML methods </b> and <b> advanced communication protocols </b>
     for <b>5G Ultra-Reliable and Low-Latency Communications  (URLLC) </b>. <br>
-    In my spare time, I am an avid sports enthusiast, with a particular interest in pingpong, and skiing.
+    Apart of my professional pursuits, I am an avid sports enthusiast, with a particular interest in pingpong, and skiing.
   position: Senior Research Specialist
   school: Nokia Standards
   news:
