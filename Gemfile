@@ -29,8 +29,10 @@ gem "kramdown-math-katex"
 # A JavaScript runtime for ruby that helps with running the katex gem above.
 gem "duktape"
 
-# Fixes `jekyll serve` in ruby 3
-gem "webrick"
+# Fixes `jekyll serve` in ruby 3. These floors clear the Dependabot alerts.
+gem "webrick", ">= 1.8.2"
+gem "addressable", "~> 2.9.0"
+gem "concurrent-ruby", "~> 1.3.7"
 
 group :jekyll_plugins do
   gem "jekyll-default-layout"
