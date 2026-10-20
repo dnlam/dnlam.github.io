@@ -8,8 +8,9 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 
-# Happy Jekylling!
-gem "jekyll", "~> 4.3"
+# The github-pages gem pins Jekyll (3.9 or 3.10). Jekyll 4 cannot be
+# installed in the same bundle.
+# gem "jekyll", "~> 4.3"
 
 # If you're using the MathJax math engine instead, free to remove the line below:
 gem "kramdown-math-katex"
@@ -17,15 +18,18 @@ gem "kramdown-math-katex"
 # A JavaScript runtime for ruby that helps with running the katex gem above.
 gem "duktape"
 
-# Fixes `jekyll serve` in ruby 3
-# gem "webrick" , "~> 1.8.2"
+# Ruby 3 does not ship webrick. 1.8.2+ fixes CVE-2025-6442.
 gem "webrick", ">= 1.8.2"
 
+# CVE-2026-35611
+gem "addressable", "~> 2.9.0"
 
+# CVE-2026-54904, CVE-2026-54905, CVE-2026-54906
+gem "concurrent-ruby", "~> 1.3.7"
 
 gem "rexml", ">= 3.3.9"
 
-gem 'faraday', '~> 2.7', '>= 2.7.11'
+# Octokit/Sawyer (pulled in by github-pages) require Faraday 1.x.
 
 
 group :jekyll_plugins do
